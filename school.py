@@ -6,10 +6,10 @@ import uuid
 
 import pymysql.cursors
 
-connection = pymysql.connect(host='210.43.57.141',
+connection = pymysql.connect(host='127.0.0.1',
                              user='root',
-                             password='root',
-                             db='education2',
+                             password='',
+                             db='education',
                              charset='utf8mb4',
                              cursorclass=pymysql.cursors.DictCursor)
 with open("data6.json", 'r') as load_f:
