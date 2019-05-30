@@ -1,0 +1,907 @@
+{
+    "draw": 5,
+    "recordsTotal": "7153",
+    "recordsFiltered": "7153",
+    "data": [
+        [
+            "1",
+            "<a data-content='普林斯顿大学' href='https://www.forwardpathway.com/8413' target='_blank'>普林斯顿大学</a>",
+            "<a data-content='Princeton University' href='https://www.forwardpathway.com/8413' target='_blank'>Princeton University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAdVBMVEVHcEzreRsVCgIBAADhchkAAADpdhrqdxoBAAAAAABkMQnpdxoAAAAAAAAAAAAAAADtehzrdxz5fh4AAADqdxuZmJfAwMDv8O+rqqrd3d1IIAE1NjhPJwceJiyFhYXPz88SFRhcLgt5OwzzfR0AAADqeBz5gB6Tq1Q3AAAAJHRSTlMAGzJERV1hYmaOlqSqtLW2ucra6urz9ff3+Pn5+vr6+/v9/f53dV1tAAABL0lEQVR42n2Ti5KDIAxFxceuVtvaUh9UKyiQ///EFYK2dNU7o3JzhgAhBoGnNA0OFFEaHlGlaLQDw0xZZV8JkjQKo7SgyokWNpA4fMVoNwxtVbXD0KG/OHyxTtQNY415amEDZ4fPOJmzmjeMc153Hi4wWdtwxBX6wuHMzW64yc2Ym515WLSGcc6aSng4wWTi9RJdZ97ol4OFvdXTyL7RL9Uhd5BWANMEy/hOlrLlUhtJmJSaAA3ka1V/bUTK0Sw5SXQ/KyaPN1VqNFw+yPtSctBSj8uVGP6ROwjimfZq1Tjb+PNOS4m0dx9Zelceu7DWTxzEfksUSKVbpPjuJGqpxk38b8jUbsgccD7CRjufsBymAKetTi0BMZSbjUxulssbCfY57NGZlwAlOfjJ8tz3f9TLOHwMOyNkAAAAAElFTkSuQmCC' />",
+            "<a data-content='新泽西州' href='https://www.forwardpathway.com/21490' target='_blank'>新泽西州</a>",
+            "1",
+            "0"
+        ],
+        [
+            "2",
+            "<a data-content='哈佛大学' href='https://www.forwardpathway.com/8425' target='_blank'>哈佛大学</a>",
+            "<a data-content='Harvard University' href='https://www.forwardpathway.com/8425' target='_blank'>Harvard University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAABfVBMVEVHcEwAAAARFA4UGRipjEUWGwdmVyAiFAjEwsIlIQiBZSVSLQ2TkpAjHgdQQRMzHQaGhoVkYmBBNg4REAxVQxempKSSkJBSBAIsIwVRRBx1BQVMPhVsXyFaTxtJDAa2tbRIOBBUBwM3LQl9AgV6fnnw8fWMAAVpVR5HRCXR0M6Rk5JQQBSnp6aLbylXEAc5LRNfTBppXlpwWSBnVh5DEAVjLBCAZiVWHApcTSKTAAdKOxOdlH1UT0FXRhMyJwqBaSaMjYyqqqxnVBxyXCF9dmrX19hzalJENxCNhW9+ZiXd3d9oUx11XSFcRxhtbm2tBQyzAQdUEAa4uLnt7/C/AAuhoaFENQ+gnZJzGQ5lHA2xsbFcNBn9/f7w9vaamprUAAzOAAvKAAyjBAjDAAy9wMCXBATIAALaAA6kqKertrPR19iMBwWTlZZqZ1Wdnp7CxcZUVEFnV0ONjY1SRjJ5eXl1gnzKzc6Qn5tBPCx1OzGOPD+nVlqqUVXZ4uNyVUm/mgZlAAAAX3RSTlMABg0bISQrM0BESlJWWmhtcHF+foGEiIuLkp2foKenqK23ury8wcLCwsbIycnJzMzPz9XZ2trc3+Hi4+Tm5+fp6uvs7u7v8PHz9Pb4+Pj4+/v8/f39/f39/v7+/v7+/kgn2qwAAALESURBVHjaXZNLc9tUGIbfIx9JRxdbjuVEvpbUDc600HIpDDCwYcd/5S+wSjrDgikMzgwlHdrEE9uS7diWZFk3S+ewSGlLv9U737N9Hop3VxEcKkuz9170vyHv9WGyTE57678Lsf0AS5UHkaO2u89v22gPfk9p8j5WO2XVKvPGBduuebzo2Np1mLzF6ulTCQHAhl8jwJMAFh5dXG7fYOnwkSjURq7ALGGoMBVk0sfFRXmHnSGEWZOExK+YtOsRTni4Q9cfC1BACuRMX5oTs+k7e1Q3EJE5OUyNNRGgkLvR6HBg8JRoMskhUSVX55++eL2pNt2EwtoPQs0Jtk6InUVwsH5Zj5wrSwvbN/WEEmaZbtg2iG+nBpfzrd7zDFQqNymcZE5JsysBjcyEkrMCikSqRmSGKI1PEL6mVOF8uBT1CTxswMiKpGC+yftWpEsStY9itQg3XCWMAwIqFElAWrgGsuoJXc5M+WbatohABSsANjgBFp76lScmlPwzKDgfDwG5FnSjos6NDSfpGPzy3m8p1ZrKy60IdsZOZuB1tjbyWOPBRrhRU2c0EjXnnns7+pHIaFy1uJ5pKWPPCqeT5vGK0o4NrX0+njt7qKXgsYyG7E2UL1NoxzvKLYi9RcSFnRgrMjvZ9BBrI1ExiqK0QUv3aK35g2B2/oOR9hn6WBRn3kPJL/baOqfCrR/vq8Nf8rG9Oip3QJlNJxzfu14df2QUxWXtfjJrLeV40cpLMGkaG+RgRu7f/pqAAvmi9eJz+eA0vFl9B2Tn5cD2dKx6WXxni+vklS8eFFlrcfaZGJEWbbUqcVC82t/h+M+e4HqudD56Pob2mJe1AuKbn/03KvLtVfy0t6aN4KdU8et6NJcxmm7eeZ6O5yffNifF7NjrjG19kZ0H/H8RpX9d24P+wXXfb7tnblh+2BiPoillMsmR5OJtgv8C5illCNJV+/kAAAAASUVORK5CYII=' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "2",
+            "0"
+        ],
+        [
+            "3",
+            "<a data-content='耶鲁大学' href='https://www.forwardpathway.com/8672' target='_blank'>耶鲁大学</a>",
+            "<a data-content='Yale University' href='https://www.forwardpathway.com/8672' target='_blank'>Yale University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAS1BMVEVHcEwAJFsBJ2EALWcCLmgBL2kALmk/ZZAALmgBL2g4XosAMWt+mLVGapQAMGsZRXowVIVvja0AMWsAM29JbJeessjI1eHn7fP///9Vp8dQAAAAEnRSTlMAEzhab3yIkJavucjJ6ez6+/6kiQZuAAABTklEQVR42o2T65KDIAyFAyQxaKtFbr7/k26gtVU7u7Nn/EH4kkMcAgjTLiYAcEIfMQjKLhQDwMSHDaAprk9FIcVI87pvePoHjj0h7njd44YFmXyLtcXX2d1QWTub0ZHTOLJj1M4tSQ8nR4jtV8AQaTw7p0sDBkWLZ2IDL2lFjHQr43C73QY7a7KwhbccTjKUkOu2bUk0d0L8UDU0nBotpeY8yNG624/3pWhpeKScFnFHa6X3WoLSreawLCHQiYIZa23Fqhy0gRHP3Gpt7bjWXPKS6ISBSskdl5S1v+LhYp+6e330rHypBuytbSk9k+wFc8dhbR414YUCxVBKWlvf5dpY631u97ykR0qTg29ZP0/C3gvab+acfjypvCNr3TlFiJmwDZDeu44qizndGM6q5wC2leAZ8/pWs/C/4z7CF0x/YkY+Cc/TgseHt79G1Q+ASx3pE5M2vAAAAABJRU5ErkJggg==' />",
+            "<a data-content='康涅狄格州' href='https://www.forwardpathway.com/24030' target='_blank'>康涅狄格州</a>",
+            "3",
+            "0"
+        ],
+        [
+            "3",
+            "<a data-content='芝加哥大学' href='https://www.forwardpathway.com/8470' target='_blank'>芝加哥大学</a>",
+            "<a data-content='University of Chicago' href='https://www.forwardpathway.com/8470' target='_blank'>University of Chicago</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAASFBMVEVHcEx4AAB/AACAAACAAAB/AAB/AAB9AAB5AACEAgKLFhaXLy+kR0evXl68eHjHjIzPnZ3Wqqrct7fhwcHo0NDw39/47+///v5YYwMJAAAACHRSTlMACBtZhKzO4wY5j04AAAF7SURBVHjaVZJBkuMwDAMbpOxka///063JxBKJPXiSeM4tABSJAaSEQADIYAx2wQCNAAQpF6m2DdBtBufjuBPCTSCb50IGBoD2BrHsDLfkrcTihQkQlm+rI2pUD03e2A8i28myK13ycZyT/pgXAQzj1F5S7r6YD2gjWjKuILmafzlv0JWNmk3xuJpj9aNtk25ERJ87+sHCK2OypXt5hG1dMI77xj+C3XP8hfpeF3Ntt4CoShHMjfzz1Z+PjS3g2zmhA4MZx2W0M+KmTXWLANWoeqsjgDtkkinAXLNtLDAiLGgr5yebwoFoy4Ke3uOltivLtBgxNTCWD8k+1Q47p1AhP0dtM+yzMgOwlxQmjNMzn9So57stvZKZYdaoUESF8qD6pe6kj7hHeLSi1N2o313rjmXVys7Iqm43/Vlqrx11xwroRsisD6bmRh8bMzkcT8Gs60EXm9y3nmY7gLmudYDlEf0t78eUehW/MeXIMNPqOsf6heluRXS33xD+A427Dv2MCi7HAAAAAElFTkSuQmCC' />",
+            "<a data-content='伊利诺伊州' href='https://www.forwardpathway.com/20231' target='_blank'>伊利诺伊州</a>",
+            "3",
+            "0"
+        ],
+        [
+            "3",
+            "<a data-content='麻省理工学院' href='https://www.forwardpathway.com/8484' target='_blank'>麻省理工学院</a>",
+            "<a data-content='Massachusetts Institute of Technology' href='https://www.forwardpathway.com/8484' target='_blank'>Massachusetts Institute of Technology</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAALVBMVEVHcEypGTGVaWimGDCmGDCjGS+kGDCkGDCjGDGLjI2jGDGJjIykGTCwGzOQkZIVXq0eAAAADXRSTlMA/xK/V6pHlu/T3EB1//uNWgAAAG9JREFUGNNjYKAzCDbjMT6QbM4Eoo2NTRlkRVjvFvjeUuq9xn7xouxFhkYxIN9RCswXFLwB4yukOLG5AAGcDzMPpn7mbKC5SPx5r9nvBpDFB5qDwmdQYEDlM+Djy4oACaB/3kH5wWZAAuhfmPvoDACu/kfUcMDDOQAAAABJRU5ErkJggg==' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "5",
+            "-2"
+        ],
+        [
+            "3",
+            "<a data-content='哥伦比亚大学' href='https://www.forwardpathway.com/9310' target='_blank'>哥伦比亚大学</a>",
+            "<a data-content='Columbia University in the City of New York' href='https://www.forwardpathway.com/9310' target='_blank'>Columbia University in the City of New York</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAIVBMVEVHcEwANKkANKkAM6gANKkAM6gANKkANKkAM6kAM6gAN7Guzp8XAAAACnRSTlMA6nwj1Q+1lmBA2aL+UwAAAQNJREFUGBl1wb1LAmEcwPEvF4+e49EpdNORDXFTmhKN5Qvh9AxX0JbDWTkZSkbTUYPkVEMvtJ2Idr+/shMyz6DPh39UWddhzYHVJ+1FtkhTnVPSVF2TdiYBaSXZ5Mdo+AQVqcHH8A4yUd06fjXEPd+x6k6A1+dwYN/KZavwSHmCDag3ETnRQJsZC12ZahL3FFjwZM7CDe09EiWJSagmY5dERhokcl/4eXIuhvQwQjJ5zIkqx5gSqs+iHoeoVtWJaqaEFSeq2sA4eLCLhrjlo91sDPhzBvjSoIl3AWTlqnXdldn7dCQhYMrKM7CxvaIBpVlSGjDsX5YLGJG15PQAtb+i+esbC8BI9GUw0SAAAAAASUVORK5CYII=' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "5",
+            "-2"
+        ],
+        [
+            "7",
+            "<a data-content='斯坦福大学' href='https://www.forwardpathway.com/8439' target='_blank'>斯坦福大学</a>",
+            "<a data-content='Stanford University' href='https://www.forwardpathway.com/8439' target='_blank'>Stanford University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAPFBMVEVHcEynTk6wYGC/dna8e3uLKCioU1MUAADEhYW/fHxpAACNDAyIAwOrRkbEenqiNDTQj4+RFxe7Z2eYIyNcdtfiAAAAC3RSTlMAcMPaw0GMDuvOKveLDBYAAADVSURBVCjPddHbGoIgEIVRUECM0yjv/67NIBGD8OdFtb4ObIWo6d22di2GtI0ppFq0+qUec97h5f3NndR1efb5Q3El344/n6EwfS9d+CycHavC+aZi8lP2wRoppbpXXN4y0V2XWzNEDLYJlxf6Scx/m/qwzSrnWIOdeTt3zfHRf7wYFf9t5puzUR9vjaMWb3c7F1aMhTlrFmYsjpqM18CHUaWNjqvffEK5laAXHJ41JG5tpkzHBYj0cAvGG425Jf9nY7O8Rs1gxGJUXHxQ8tQ1KrrtavoF6AwYA50NxtYAAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "5",
+            "2"
+        ],
+        [
+            "8",
+            "<a data-content='杜克大学' href='https://www.forwardpathway.com/8501' target='_blank'>杜克大学</a>",
+            "<a data-content='Duke University' href='https://www.forwardpathway.com/8501' target='_blank'>Duke University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAOVBMVEVHcEwAGFQBGFQBFlEDGFMCGVUEGlYEGlYHHVkHHFgBGVcCGlgBGVgCGFhZY40vPnMDG1x/hqaytcjcpxU3AAAAEXRSTlMAEiEvOkdVaH2Xr8LX6/z9/g5YNaIAAAFgSURBVHjaZZPLktswDAR7AMiu1P7/v64tApODJMeq8ASiideQLAABpBWANXgADBQQNSg8sTvs2FbWWNp9YHWDDDAwLwbDxhntqI1jvbJO682FJ+rJyOl+6ckQEz3rqs0ASevoKHE1x+bK5XDYACFjYb6xjEeWmFDXnO4TNyhnnGpGrGOOE6t3BI5gXoNBzn/Yh3A6FfzYV/LYjsN+63H413xhkb2obEeyVjz6DD+xdv3ycwTOb2Xn+sLedsufkhrpPncsAHs6YebZt7nJMcDSEyC5ywJXOoCo//B16roDbrJ8HHfz7HwV6T42EwFzXF8BpFr1h15A7vEDayLmxBWjRUIHLD9gLbvWQIH8jpp9tnRndMF73E2c0ZK85MlqHLlPL8VHc3datXZVq5NX9whnX7W9Kiy8Z2xaPaQz19dTnHbJ0x3qqg6x99fc4+iQHt634z953UR1qyU7hhn7eqj8BVl+4CpLmQBPAAAAAElFTkSuQmCC' />",
+            "<a data-content='北卡罗来纳州' href='https://www.forwardpathway.com/24947' target='_blank'>北卡罗来纳州</a>",
+            "9",
+            "-1"
+        ],
+        [
+            "8",
+            "<a data-content='宾夕法尼亚大学' href='https://www.forwardpathway.com/8546' target='_blank'>宾夕法尼亚大学</a>",
+            "<a data-content='University of Pennsylvania' href='https://www.forwardpathway.com/8546' target='_blank'>University of Pennsylvania</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAdVBMVEVHcEz7+/v2+Pjo7vPj6/HW5vDg7va/0eHP3uq8nbbRucmFpMPP3epxlbrK0d+vydwAMnqdABeeASQBP4KnBy8RSokeU5CnLE8qX5inP18/b6KmT29WgK2yY4G+eJLCk6qgqcKSss7Fpbne6vPn9Prz+v3///9PJKlOAAAAEHRSTlMADR42VmdrrcPu+/z8/f3+oUswzQAAAYJJREFUeNp10m2bRCAUBuBmGGySyEuimlH5/z9xT7HWvszzJdxO57iCUIY/3gRnCKFsbtqQrjuW7rhq5p0nY4weu06vq47ajXo1ZpwfwA9FN++3tV3dtnk6dq1RK1xteOd5Dawnb61zHreTVzoWHIxdXTujCLB3dlLYmPDkizV9PolW1upRUU9nrBV5PqmJnE1NHHY0c9M0rcJY7/M3U5j8YfSbmLg5DHzm9brcuMj2+0HJ2MXtL66YlLx8x1UofbHyf16YCIs4PXK6s18YFzClGzirDk6Bk8hOMs75QukCy+EkCUzDi3IY+BnRL4HpHfhWBC29DXVCcN7X3srFbz5HIZmzQoYdeiasHVioJGzxsTXsXgsWmQ8EIG5MOFuKW2SUQ9vSQXsSOw6lI5Jz+dgVJRV0Hfiu4H3fw31+FEN3+Gb2pcHhI8sEncnFRYPzKv1WdMslvZzkVlcZuuZeXE/dkxT9zC23/jypIkF/khF3lOZ39E+Sgnj4kYsUvUlakF/4CU0vSTGLTPcrAAAAAElFTkSuQmCC' />",
+            "<a data-content='宾夕法尼亚州' href='https://www.forwardpathway.com/21492' target='_blank'>宾夕法尼亚州</a>",
+            "8",
+            "0"
+        ],
+        [
+            "10",
+            "<a data-content='西北大学' href='https://www.forwardpathway.com/9162' target='_blank'>西北大学</a>",
+            "<a data-content='Northwestern University' href='https://www.forwardpathway.com/9162' target='_blank'>Northwestern University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAKlBMVEVHcEwAACtCHn1kRJV6XqWch7yplsPAs9TMwd3Uy+Lc1Ojl3+3v6/X9/P6Bcn9TAAAAB3RSTlMAF1iIotn5JV5/RQAAAZdJREFUeNpFkbtOG0EUhsciD4CU8AZEcukmL5AWGkCkIEmLnYTKhddru8beW0XhnVm7QsJ7ziy1d3a8VbDw3kqEjHfehTUB8nff0dHR0fcTUqW2/+389OsueU3tC4un+erkbfA5DPu/Z7dPx//wk73yembosPvGCx88DjwDWNwPrrb4wZcehUlG2TzZLtTv+xTQUaY5d9rV8e+2CxSZpALd5S7ZufkF2phLYMCsqEH2En1CJxkuxCxMnCNS52sKidbUuDWGRZscjvzUAhlllsi94TX5YSANukNzOk5UaN6RP5lryFbE48u0QLYkLR1p2tSMQScCvLwhFxtgaSsXcUcyXDyQi64npNYd9zrSNfwlOeuCCPQiV6NkyNw7cgihO5h1zpt9AUz/S+oBpTStmBu2nbbJ3orZpVX96+f+3D4iO5mOKkEpAkWV3iC1n1rETS65L7D3UCmtcwWujiPmKdbe+opViSgRCvW09VU72ExLjlisb69f/H50VMkhitVj47WPYh32bGdz/N6XVxZFePK/wP3Ttz6fAR1u3x4PALCwAAAAAElFTkSuQmCC' />",
+            "<a data-content='伊利诺伊州' href='https://www.forwardpathway.com/20231' target='_blank'>伊利诺伊州</a>",
+            "11",
+            "-1"
+        ],
+        [
+            "10",
+            "<a data-content='约翰霍普金斯大学' href='https://www.forwardpathway.com/9154' target='_blank'>约翰霍普金斯大学</a>",
+            "<a data-content='Johns Hopkins University' href='https://www.forwardpathway.com/9154' target='_blank'>Johns Hopkins University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEUAKndHcEwAJ3EAKHIAKHIAKHIAKHMAKHIAJ3EAJ3IAKHMAKHEW3ZuPAAAADHRSTlP+AFi7dY/pohZA0yeZapg3AAABWElEQVQY013QzUsCQRgG8Bc/VvD22i6teNFJA+uysqG1p3Z1nXPaYtRlKajIS2Fi2Wkvseil3ULwZgkaXgsR+ueaHS2iBwbmx8zwPgyg7JvqxAbhSj3MOwiiZscNQme3JDsSxjrMAd4Q0WVrA6DJLNzjMjmbO3ziBqeu+6lwR8fjUk3OtVRtn/kR9iyr0bE6bct6hkvowZnKo6lqEd5hbWoMF24fv7DvV7oFkPs+1SY2EbyPB1w4kJhAEALeU0SeZUAEmGaLkGcOybYOSYhWiDHKbHF7II922iat6qkM87kDeF2n1GzpWEqH5AsE3KxT0yrpqJQi8ilz77hsNgIXjNQus9SitNENLG7rzMl22ypXyZ1SkGLsfxBbwTwSV16lGAaeB30IvNxITW5x1ddfP+BGZdW/5iw9X5ld507a3ANvZUwv3+OPE9z4axz8c0ohYeePURoeLTffSctjwSBywzwAAAAASUVORK5CYII=' />",
+            "<a data-content='马里兰州' href='https://www.forwardpathway.com/24379' target='_blank'>马里兰州</a>",
+            "11",
+            "-1"
+        ],
+        [
+            "12",
+            "<a data-content='加州理工大学' href='https://www.forwardpathway.com/9160' target='_blank'>加州理工大学</a>",
+            "<a data-content='California Institute of Technology' href='https://www.forwardpathway.com/9160' target='_blank'>California Institute of Technology</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAVFBMVEVHcEzzdBz0eCL1cxj7xaD0dx/0hDr1fiv83sr6tIT+/v7zdhv++vb+/fv++/v0dBnzbg/6mlj//v35kUj2eyP/8uv3iDv5omf4gi/81Ln959n5qnQX3/QBAAAAD3RSTlMAXLB+/ZUY4P7+wylLhobMt5+zAAABuUlEQVQ4y2VT23acMAwE1mA7Sau7fPv//+yx2d20qR7gmNGMxFjatldc+3nEGONx7tf2M65HdBkkQoUkPn4k7LEOIpJCJFkrxf1v9NRBLl5VVStBEarnN3pIKcUBALUiALiU7Meb6zRIYQaF9VZxoCd/BymLBFBCz3ceSvFV/4oKdX3D0ayHcWc6lTj7f0igm+ApcQsJ7igij0n2UW94mHFo7De9jknfK91kwMJs2d6wVNm304fgU69xD/wSBx90bnEMfZ4RQ+rd8ZVdKG5RxlPNpdbcpIrf+Uolbp4nGwGRmrGZ9VZe7By3ODvz6TiCZ7P2EgMYZcLTwEyFFGfxZg3wWzzSqKCqy7TWWzN++l8nfFL2u+9qbKmlZD3g+8d2KeV2nJhTTr1ZbwsWr/t2RSJZcObeWmvJ0nLGi887OZUWHYP1niyFZlYRsMi68StKWba2xL1zD8YsqJRL/FzjoKGIgqbEqc8r46QoherjOUxVnVC7cZ++sfmcFXkP20FD0CfW2Zi7omY53rN+nVXRjdkCGa/S9bj+WQMQZuaMtp76+LFEZ1wwTDicn/9v2devj48M6eP317fuH/vYL7zToO6hAAAAAElFTkSuQmCC' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "10",
+            "2"
+        ],
+        [
+            "12",
+            "<a data-content='达特茅斯学院' href='https://www.forwardpathway.com/10079' target='_blank'>达特茅斯学院</a>",
+            "<a data-content='Dartmouth College' href='https://www.forwardpathway.com/10079' target='_blank'>Dartmouth College</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAFVBMVEUAaTgAaDoAaDoAaToAaDsAaDsAZzsD3xcdAAAAB3RSTlMBRjYgWXKVWkCDBQAAAT9JREFUeNo1kcGSpSAMRYP2DyTEXgvorAWsWT8V3rql5e3tKv3/Txj09WTFySXh1gUAUI3Io/7uWMNVFBpnmZbKypsVTVhKKaSbeVuVUqSR+GbUV78awIpfff4CiNvQ25tXPfDwseo0vvVYbsoYOPLNjh91Z3J4hSjKEiHlIib5mc/tqXULtZSbmKibE2UsbA2faiL7PF/noVpwpjlDkFwcqaAliCWeU2hWJEQuulie53do9j3+dXv/AOvjQV2TEvdu9W0xILeI/U+KqH+wsOFXTn+OI+e8l/lKd5ylinGLOekB6rprIpLzHtVSGNCGVSHqDpn8ta7O12ypY5wL26X3dtI8qf0OtGL/qEZrWuHper5mM1JlTZLDeOdjk2cD1ezfcRcHswmEHt/fUxKj2aIB2f4yeO2chv/y3RHuffgHb3s+cpgkD5AAAAAASUVORK5CYII=' />",
+            "<a data-content='新罕布什尔州' href='https://www.forwardpathway.com/24587' target='_blank'>新罕布什尔州</a>",
+            "11",
+            "1"
+        ],
+        [
+            "14",
+            "<a data-content='布朗大学' href='https://www.forwardpathway.com/9427' target='_blank'>布朗大学</a>",
+            "<a data-content='Brown University' href='https://www.forwardpathway.com/9427' target='_blank'>Brown University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAABOFBMVEVHcEwAAACHhoaRnJzV1tbGChCsr68BAACcXF2oqapfZGVGRkYGBAYeHx+poaGUFhmdoaGXl5iytbZSUlIREBC9yst1dXWmYmYWCQQGBgaPkJCuEhfIx8dVVld8foA2NTW2HyVEFAJna2tQLQNwUwADAAAoJidKS0uBgYGCAARwcG99iou2wcELDRdMKSCFZAA+PUAyHhqST1JLSkoPDAk4OTgHAwK1GyFPUFC/lABuVACmegF2OzyVcABbXl5wbGeBgYHj6etiAwR+gZCHXgCPcgCacwBhQgBuUwNMRzl0CAsEBAR0AwhgYGJ5eXuukSLIrCLVDxaNVlZWAgaxtLmCbA+3igDxBQ/4DRfw8PGQjo77+/yepKWbmpvKzM3Av8DMBQ7f3t/atADR4+PoEx2zigCCX2F1WAFHAIpqAAAAV3RSTlMACPz6/vv7Jvb9nP4pYPb58/T7/Db96/piG/L6+LOq+fte/Ku+E4VT8aq0+/xKk/qQo/y0PmJr+nT8n/r29ffO0/6ijF7D2nPix9S3kHRp9fL99HnG557XvjxjAAAB0klEQVQoz23TaXeaQBQGYIURHVzYhAiiiFC3umtN3KJmT9p0b1lF1CT9//+gGL9kjO+ne87DMPfMuTcUepN0u3RWDoeOJlzqCJCFbi754Zi2l8CxFo61hrWz9KGm76Hl2eR9LRd8xArlAy2unVlDa+qaXpo5jiWICEfnv/P6X601bd2NdPLy8hE9ncio6m2rNdxsxv9GV1e3gz7KA02/vhs+P48305ub61EmgbD4taz+6nz7Ph0P/7QbqhpFf04CgjIol3/x/RcPUiaFni7nyGb1ok2SF9UmmW9Wv6BPIyaiSBIo9yDNMDScZCmBYBiGwJII19ZL27a3J6ZP8EtsCT2U8za2WmEfT4xIqugtAQc/HbIn23sGcP2O3XgQ/JU55TxOoFzbsjjObmNGhAYE7vJ19O5ONxbkJ2X+mOyK2CSDzELVNHYxn8zXwvQRDmnZ00LhNBsxn7LZQlBRKPd4Asch3zUiFZ7G8bqL3k2uJEbC6kFrwfNVaIloIPxYlGR5/yznMg24CjqMfQVj2cqeWUnmeui0hz/H40rc3bHAKZwyOBxkAXhgEbSWWgCw6r1blf4cWFbQWsqxVrkjeyKW5vWu6dvELHl8zcRk5+Gh1HiL/wENfU/BkmYWygAAAABJRU5ErkJggg==' />",
+            "<a data-content='罗得岛州' href='https://www.forwardpathway.com/24951' target='_blank'>罗得岛州</a>",
+            "14",
+            "0"
+        ],
+        [
+            "14",
+            "<a data-content='范德堡大学' href='https://www.forwardpathway.com/10080' target='_blank'>范德堡大学</a>",
+            "<a data-content='Vanderbilt University' href='https://www.forwardpathway.com/10080' target='_blank'>Vanderbilt University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAG1BMVEVHcEzaq0narErZrErZrErZq0rZrErbrUzmtk8YZKpuAAAACHRSTlMAHTxffqzd/k0EJ4EAAADySURBVHjajZExT8MwEIXPjskcKZJnCyS6FhANY8QvSAaQR6JWpXMJudtT1/nZPbsmZINbnj9Ld+f3DPBHPcV6hPJ6APKISCd4ierh7sDaP0C54YvzK4BmPnLjjUfqWBXfDwagYq6ZxSf3fYGkPQ5F2GC5YTLKlejixhVi+7yW68wfI+eemqCaPiLzwJ4bxSGOiwNpV4R9xfXJFmnqQL+5ZKHC4f0bRDYmzqc2uzeQd4nV1EhVg60TC+pvpVHe/GRgaWtb7eZMKjY+rsaZg2Wnu5mDZdw0M0sMZX5DDZbdIuSK+bRgnbJbDKRmwYJ/ooD/1AVCz0kaQs984gAAAABJRU5ErkJggg==' />",
+            "<a data-content='田纳西州' href='https://www.forwardpathway.com/24955' target='_blank'>田纳西州</a>",
+            "14",
+            "0"
+        ],
+        [
+            "16",
+            "<a data-content='康奈尔大学' href='https://www.forwardpathway.com/9165' target='_blank'>康奈尔大学</a>",
+            "<a data-content='Cornell University' href='https://www.forwardpathway.com/9165' target='_blank'>Cornell University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAATlBMVEVHcEyzEhKzExO3KCizEhKxEhKzERGzEhK0FhazEhKtEBDrurrelZWzEhLtx8fTdHTps7PRcnLz1dXfm5vESUnioqLnsrL44+P//f3wzc2HO733AAAAFXRSTlMAeWYRRCtQWzdwHP7+k1izvFrWwYpWNPplAAAB0UlEQVQoz2WTSZIcMQwDwZ2U1PtIqvr/R31oj2cxryCCiCAS+BzJqKKqihT8HgniNE0L1yL/taDk2gBNIzVTpvyuRqmIN/HQ0GyReYkvlcmbZ1BxBBdrttDgL6+4K/E7kiSzavNPv5JHi+/XklS5lQKAkHn4hYKjPm63D44Iuri1IAHg5amlkXHvfe85bpTh5WERgFC6l5nb/TzX3mv1e3paWWoJssycYXFfc869xzj7nRPsrVEiWL0S9tpjrbH3GGvtlyHZvAJlliWwefQx+nGcffVjJqQMWSAVZyBH73OefZ1rnn0kwJleKFUO4LH23nv3vvc+9nwAoamFEkkGHv04x5xzzjXOYz0ANkihBFZArmONNVcfa65j5j85U9/RzrnmWnPN8x1NMwsRqpyQ29Fnf8v9uDVkpFcgo2UwUM891+xrrrmfBXCYcELIVSthH68x5xhzjtdHItkqSoBgM6WG4Otz976f12A0imzs74dqOjVwyPV6vUoUhDzLSwAgL2oWZPBqrQkFklTTPgsS3NiTOLWqSJPLgKx/ZeTytPBivlwqwt0EX1UEmJqquaqbqYiqUvzEgNJCVAHWpkX6CyIvYguVFkH/QfQXQaqiHwj+AWvFGO/XLkBYAAAAAElFTkSuQmCC' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "14",
+            "2"
+        ],
+        [
+            "16",
+            "<a data-content='莱斯大学' href='https://www.forwardpathway.com/8556' target='_blank'>莱斯大学</a>",
+            "<a data-content='Rice University' href='https://www.forwardpathway.com/8556' target='_blank'>Rice University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAwFBMVEVHcExZZ34pMUJCT2JDQ1ZLXHligaZfY3YmMEIsPFFdbIpqg59qdY1EUGgZFxwmMkRic44qN0udoKoiMEVrfZhVYXI5SWSutby+v7///vkwS3D6+fO/wcLw7uosRGQnNEX19e8hOlrc3dptmLd3hJVbYm3Lysmys7RPZIuNkZbT09Gdnp/o5+Joja5Wb5Zod5B3e4K0usE5U3paeKGdssGDhoqkq7MTKUWFlqqMpruSnat4or1pb3e+y9QWMVN7jKUZ+0/vAAAAGXRSTlMA+0f7Ef3+KWH+9L/kgBqLqcBV03rD+JHV/2NQJQAAAghJREFUKM910ueaojAYBWCKqMzqqNN2IQk1BQLSpGO5/7vaoKPMbDk/8+YkD+STpGueFWW93m5/jNm+vb0sZtI9s8V6p34UWnCY733fH4bB389X27fFjZUPNZUzWQsS4WLD/tK23WWOV7cTlnZFGadykFzbfhpB6ME0ffARQpjL18OHoZNDCCmb2LKrKuIwOYjy0JUtiSrmlcnqdvnSdKs4j1F98PenU1eWGeUQxZenO5s644zy+R4axqnM+4xD5uUPLiwVRlk9F2oYvMxxyMOontrWMcIWgQZAjmF4dRgyTNIvrKpBIrqoyoTTCuP9IZm4KIrgJLQ9aBkS/cGfT2yNPnbbpCyvfhIayBObuQFiHHQAlMVxdKEPtqwcgDgtegCA05mj55p2Z9etHceTzd4RDFBnjc407fZTFb33kKe5rbA+MoDTugQBp37/HIUV5VQ7hw5w+qCIDMO5nEmMnJ+f87CFTBXqOK0ZJFY4ekM89PLJSqU2GCGEXYzDXjhAuCG/7vM0252P3Itxc6SQxvgcAuSl7vIxbQrJc5q6rh4xSPH4vtz7MQ2jtK4ZOVtmQ6LQi1PTzTz4Mqk0eyeN7lquGlMOqCn8q4qPe9V14Q3hjMVPVrGRvmfxqttigx3VJNLMtfRnnne6bdskyxrd+lvF/Rv7Gv1Vkf4ZZTfq5ln6T2bLzWbxbeU3JPRR37t9mPAAAAAASUVORK5CYII=' />",
+            "<a data-content='德克萨斯州' href='https://www.forwardpathway.com/24203' target='_blank'>德克萨斯州</a>",
+            "14",
+            "2"
+        ],
+        [
+            "18",
+            "<a data-content='圣母大学' href='https://www.forwardpathway.com/8562' target='_blank'>圣母大学</a>",
+            "<a data-content='University of Notre Dame' href='https://www.forwardpathway.com/8562' target='_blank'>University of Notre Dame</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAPFBMVEVHcEwEIUADID8BGjsBGDkAGDoADzIDFzkbLEo5R2FTYXdlcYWEjZ2fpbKrsr28w8vO09ni5ejy9Pb////g1UkRAAAAB3RSTlMAHz53rtPucVztHQAAATxJREFUeNptktGWIiEMRG8C6Pr//7rqQKr2odvW3pGXnJMbQlFJh9b4fqroQGQQBgjABwU6wKXbCbBMvnqtA1OL1oGaXE5PdYAQWR0Ya68/Yaf0Xd9W3MI4IHZ1R/HeK7l7k/0AlLczBisA0Off3ri3JPSXWzpKv/AgLBooyPwf+xkBNE8AX+OMp24QzBgG3+flAwvAmAjLEPFK9i0PsUXbbP4bb9gCHI6IytgvI+9YUhJWkCBDApI2jF2JMwHFy86yd2nyGqFH2OGYbI2WtWOrqg2IwAQQo1XpdZvKn9sVgCdb5G69513x7JGgyUiQV9UbI81FJgX3joRVH6Z6DbpntMGa0bJcJ8+9uq4J4g8xf7x0HokWj+4y2bwO+p63VjPZWRN9WQfk1mK4XPVlmcDLll31a5EPnxPpM/MPHZ7Q1v177XcAAAAASUVORK5CYII=' />",
+            "<a data-content='印第安纳州' href='https://www.forwardpathway.com/24197' target='_blank'>印第安纳州</a>",
+            "18",
+            "0"
+        ],
+        [
+            "19",
+            "<a data-content='加州大学洛杉矶分校' href='https://www.forwardpathway.com/9228' target='_blank'>加州大学洛杉矶分校</a>",
+            "<a data-content='University of California-Los Angeles' href='https://www.forwardpathway.com/9228' target='_blank'>University of California-Los Angeles</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAKlBMVEVHcEwdYKFMiLp6qc6SudepyOCzz+PL3u2/1+j0+/7l7/fX5vGcwNqFsNIGFlLlAAAAB3RSTlMAMl6Ostn+WlZ3bwAAAY1JREFUeNpFkb9PwkAcxQ/RnWiMjhoTB51QF5z8Nbm5aZxwuBZaFhN7Ryvr3UnrBAHabiR6lOJqpXWuiueqg/q/2EKCb/vkve/wfQ+AVPM7R4erYKqFc9u2ewdTvOkQnVfb+xPMnHFLMwfxqLUy5nXnw0Rq77o8vBzbpYqKNKFEbo+ngbnOrRGZFSnyrGox4cLDt+5rr7IRMtJM48xkiDFEofHZXgFZN7YhQwJh2Ndu9pJzJYKQCkZJaHlFsDR470NEBUIkxEoXbNRKLjQMEQREb8cNUND0xDeEgVSlDpugcF12IU7usUqjlKN+SBgVFErcFwn7vgMRShiWI6kJNu2wDWkgiIwp/2mA5cF34MNI1LFaN80umGtJT0SmQkfErL0VQdb5RJXR88/jb4ys6l7yj4zIiyyzmHGZ5wDYHZSxZElq6NRGjeT/2Zb3KAUxxAYvnYzrdD3Z5wHrD1u5tMBF29Y02lM872LS97GrfZD7r+pdbjLATMl5worXyU8HOvVs5yr/P2BmbXtrEv4DfGO8UxRXn2kAAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "21",
+            "-2"
+        ],
+        [
+            "19",
+            "<a data-content='圣路易斯华盛顿大学' href='https://www.forwardpathway.com/8592' target='_blank'>圣路易斯华盛顿大学</a>",
+            "<a data-content='Washington University in St Louis' href='https://www.forwardpathway.com/8592' target='_blank'>Washington University in St Louis</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAmVBMVEVHcExwAAB/AACECge1REWxP0G/WlvEcXLCZWbJb3DRg4XNenzNfn/////KbG3Sg4HPd3jDXF7HY2W+SUrAU1TXjo2jAwWzMDLtzrW4P0BwnIZ3ua6sFxnw089ZnYqqspnD4t/ZmJnnurbgqaqPpo+l08zZv6u6uaGZysPpxMRrFxSLjHqquKWwt7bFx8d0PTSFZ1y0h3Tq6+tnwDUqAAAADXRSTlMAEhgZTluDi5u81tbgHm6JtgAAAiFJREFUeNp1k4lyozAMhkmbkINYkm8M5iYHTXrt+z/cCqbddruzmrGZ4fMh//qVJJ+xWm/32fGY7bfrVfIzHtIDogTQCIRZ+vA33RyImdQUeqkkL9h8g6vUAoA12ksDQXZGkU2/8K4LXgYNtq+qvlPGgMdu94eipxBgEh8xYQTlP/dvbHBeDeJbDNq5aJf7HzMAFW91eT21S5yuZTnGKCF7ZJwSge/LohmLOeqiGJvxNEh+Ix+/ypSSIMomL5o8b+ZR5M1JkEeZrZI1aRMqUY55fc/zus7ze503VzFp8rROtggKhChfNSDi+ztPoF9PQkjnYJvsSRnOunxyzklSQPzbPTHuPKh9kpkQesZv2lMlXlpRgddvjHutVJYcjTYV46ay9vxyf345W6zujCsDeGSMkvUqb73F6dfzc8vf/nZlrL06JpnG5fCnGDo7DN3QdT7Od/fO+cOcmv9IDZGsJaTP1KLeJ1syy8NuFowOxgRtwM6Hg1S0TdYoSU+zauMlzy/zGGdZKikjrllUrgiJa3FmUS9FcWFRz0Ur2BaGReWSsD0GUdfjOT8XBU9jXYrB2KUkycPRgDK9OM0LLpcZtqL3AWkpKNvBSwicfVtyNetry3Yw5L39sGOKWlsJrJ1omXFWHhC+zLizmqyLppuqaupMdFEZu/uyampVcCFGzSbXzntnvht5aYMQXQBUSrmo8bD5p4kI2FYSCOjws4n+14K/AT43PmCw5g2tAAAAAElFTkSuQmCC' />",
+            "<a data-content='密苏里州' href='https://www.forwardpathway.com/24386' target='_blank'>密苏里州</a>",
+            "18",
+            "1"
+        ],
+        [
+            "21",
+            "<a data-content='埃默里大学' href='https://www.forwardpathway.com/9428' target='_blank'>埃默里大学</a>",
+            "<a data-content='Emory University' href='https://www.forwardpathway.com/9428' target='_blank'>Emory University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAIVBMVEVHcEwARZEARY8ARpAARpAARpEAR5IARpAARpAARpEARpFtBYDtAAAAC3RSTlMAMxlMZrvqepKl0tc6LmkAAAEUSURBVBjTTdC/SxxBGAbgZ2d3cS/VhuNSD+gpWK0YkkuqE4WzvESNsT0l9R4kGKwuB8m1ixGStCkE/0uLXX+8zTfPfFMMr+T2y7Ms5D9ePmXQyMe6BIrWSQlbUTGVj4XXFcJe3Xn76wJbO/PW4dOvGeFyPmmd3n27IDn+3u5rGztXUXE+KvWmejXrbxvvd/fJG8UC/VXyezeSL2QNwmiyH/Gilk5h/aaEzUryH7LDCG9KPsBlfwlXkRWyuUnECd5hVMrGhAsMS+kSB6QzFLVRiaySN0g+Jtdgz6sSVlkEG/EfGMSusHQG7Y9hu6vyT+fTbg7b+97Du3AK4e9D8YZLDOpH+1lZO3qi9Kz/OT6ztbuqPdwD3xMzwxG6aqcAAAAASUVORK5CYII=' />",
+            "<a data-content='佐治亚州' href='https://www.forwardpathway.com/24200' target='_blank'>佐治亚州</a>",
+            "21",
+            "0"
+        ],
+        [
+            "22",
+            "<a data-content='加州大学伯克利分校' href='https://www.forwardpathway.com/8693' target='_blank'>加州大学伯克利分校</a>",
+            "<a data-content='University of California-Berkeley' href='https://www.forwardpathway.com/8693' target='_blank'>University of California-Berkeley</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAhFBMVEVHcEwAKmIAImry4sYAHm8AHmoVM1gAImoILV0AHXjv3LsvQljMhAtLVFnkmyJJaprt1a66k1I9XY7159HSoE3pzZ9BR0fjvYDbrF/bkhiaahTip0foozIrTX+vdAykhlRbUjzQlDHpyJGDXhpAV3YROXNsWS92b15XdqaUcTK2gipjf6tpyfNCAAAACnRSTlMAvKH/XFTjitwXGchYEAAAAgFJREFUKM+FU4uOozAMpEtbKHkS8iKQkPCG/v//baBb7V2l01kIEMM49nicJO943LJLfr/nl+z2SD7jkeVg6coY3QLy7OOHa47KpsV1DNw2Jcqvf1FB12BoBi/lPBiImw5kv/AX4i00aLKMEWYZMrDl6OuNZohjONunndCyoJEQ5h3m6Id/BRw7MJHRb1wpvntA1tFgDs7zH3nXQskY2BqthdC62T1ZEWy7/HGmbuDMrIRtCFxrHkKoPSEeNkf6R15iNxKw91TFS9FeiT4AMg24jPQbaKB8sgHTglZpWqRVVdFmYETCBtySbGkNWwHkImJFQYv4h9A1mgBslyy5dHhmbKuDSA9ykcYH5bVnzODukuRlPa/MnOy0Kmi8F0LDjZA5Hp7cy1inNYG/2ZHcK72PxNfl/YAlszs8klfpyRa9gvvI5gPODzYbIO9P+KiMFlq78Rnh/CgtduFrXRxlvZILnW4snh1Li405SxDUqaCvxqgQVe+ZNUdjpyxs2lSvqkpQWkXhCuXGKMUhyyHqEMdV9koVQmlNlVa7jM2cop4j8SuRoQlRcN2LAB0i089IzoE6QKw0G9Qxe9iMtCtwPwM97WAiDuRg9uAGCSyR7m2Hl5mcnOLnEaHRyvgKf830tqIB9rmuKwPOuD+t+DayM7P0w+A+jfyxBvxjDf67RP9awW925DlEkKhCEwAAAABJRU5ErkJggg==' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "21",
+            "1"
+        ],
+        [
+            "22",
+            "<a data-content='南加州大学' href='https://www.forwardpathway.com/8861' target='_blank'>南加州大学</a>",
+            "<a data-content='University of Southern California' href='https://www.forwardpathway.com/8861' target='_blank'>University of Southern California</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAALVBMVEVHcEz//R/IZi2+Ui7NcSzdjyr1zCbKaizjnijttCf/+RL/6yKdFjOoIzO4QDHFzinhAAAADHRSTlMAHuz828Ne/pyBCDdeCkJRAAABBUlEQVQY02NgYGDgVAICTQY4mHwGCA5PgHE5bUD8M5YwvsiZs+/evT1zRADOv5qWlorMv8HAwHEHje+kiqR+9+5tiYIw84TOnDM2NraAW7/iDci6c10wPlcf2P4XcAUcxo+N7c4cSoMauFA6e3ew+ZnjdoEQvqiSJ8eb42cO37kqADX/xrwzx88cv3M2EGa/zxmg+pozilD+uZozdWeOxEL5K23O1pypPWPWd7cQGh4g/uEJqaGN0ABxqTlb4okILwZBn7OBAkh8Bt+zAchcLt+zUUBVglIo/ElKjgg+UH0v1H4w3y0tLRaJf+beu3dv4HyGZHCIHIYHEZsNaghxJYGiFCQNAGEne4la1bkfAAAAAElFTkSuQmCC' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "21",
+            "1"
+        ],
+        [
+            "22",
+            "<a data-content='乔治敦大学' href='https://www.forwardpathway.com/8684' target='_blank'>乔治敦大学</a>",
+            "<a data-content='Georgetown University' href='https://www.forwardpathway.com/8684' target='_blank'>Georgetown University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAG1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABp4cHsAAAACXRSTlMAU0QlNWQUdpeeTC7yAAABS0lEQVR42jXQOZOCQBAFYBSLeJlDDB1HxVCGw1QG0Hg4N+TS3F0tTQ12l5+9gNjZV9X1ql9LUjvmWjlL5VYa5ixqnCAzejuAGNx4GMwHCwNZCTPQsFCmAXdVcwHsvPeRofoQF1wnr0Syo3wvAs4Q7D1deTE9Y8Jj1FGZi2qph5eVE7IugKGY+TgTrof7QBuFhaoJAtZ60PlkRQXewSo8uO6+9ahCZVwvFeTzvoJl0RID4HKyYrS7HkRj9Hn/4xwE3cUnCpXlrPm5QaN0Wk/aM+RZczEjUnR5YwilfNNc5Y+AdI3llIweovk6zTHsC3JD174f4FiBtO9jq0kWJU450qe9DagRL8s5ub/6T9TNhQOWgN/hf8WTJQLHs3SwnFHtfkue+dvW1TPtZv/+v7ItF1nor72BPqQu4NIVDObMOZhVTp33vpJL9esW6R+A6EkdTmnyqwAAAABJRU5ErkJggg==' />",
+            "<a data-content='华盛顿特区' href='https://www.forwardpathway.com/25251' target='_blank'>华盛顿特区</a>",
+            "20",
+            "2"
+        ],
+        [
+            "25",
+            "<a data-content='卡内基梅隆大学' href='https://www.forwardpathway.com/8868' target='_blank'>卡内基梅隆大学</a>",
+            "<a data-content='Carnegie Mellon University' href='https://www.forwardpathway.com/8868' target='_blank'>Carnegie Mellon University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEX+/v7////tt7znpKrikJfxx8v12dvbeIH55ujUWmf88/TGIDTTlBDKAAAAAXRSTlPk54H+BwAAAXJJREFUeNpd0T1PwlAUBuBqQsJICwTCRC+0QZzsLQ3ghG24wgTV+jUCksKGFipO0ELdpdI0TlKihlEn0z9nASXKmc6zvec9GLY1O7g3URFQw+USWHnGA0kU0r8O882zGjDY6o9ZQ+UhOmnya4eyVLcpybqpF1aGek8DEqDPj+HS4TLSwJ79KKaFUdXzXO8lcl/u84R54MqeEy0p6ZYE072hpoznoqAvWoqKpgsONgKYP9ulIW67Fs5en9YHmI/qkftPh+7n5Qehgwq2S3HkHKm2pdwRtUwc2xUpMmJZsNTvEJLkuRomI/YtRHYnXCU8pw3yTemjPron5Fkc86XyB41cyTUnxaAjVjB/OZUqsX3X4k1tpA+8PLV6DZkuUugsGC3zOhoZRUAZEmR7mXc+zjN4SC3giaBcXt3LzLgXNVZPg9W9OHTyOgMSnFOA677yySujKY+PnHVfMVamGQCod37Td9sQL143feMzIfP3H//+tTXfLbVv1bPl6D4AAAAASUVORK5CYII=' />",
+            "<a data-content='宾夕法尼亚州' href='https://www.forwardpathway.com/21492' target='_blank'>宾夕法尼亚州</a>",
+            "25",
+            "0"
+        ],
+        [
+            "25",
+            "<a data-content='弗吉尼亚大学' href='https://www.forwardpathway.com/9429' target='_blank'>弗吉尼亚大学</a>",
+            "<a data-content='University of Virginia-Main Campus' href='https://www.forwardpathway.com/9429' target='_blank'>University of Virginia-Main Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAPFBMVEVHcEzmSxsCJHj8TBEAJ2/3SRYAKWz4SRcAKWz7SxUAKWz3ShcAKWwAKmv4ShcAKmz5SxcALHD5Sxj/ThmcL5qhAAAAEnRSTlMAEBgzOk5aZ2yFh6ipvsbY7/pUkJvNAAABFUlEQVR42o2T0cKGEAyG0Wg0Se7/Xv8Nqa8c/O+BbA8zttR2DHlV5Z+erQxd+PZsjM+uGw/PP3D54O6R4Nbvzdq9bfjlWdrSXQ01fCwPqxR7UVujj/XrKXfkg7q2wuZ5rpe9NE1NRBUQgQgURoIAwRgEVEBGsEsuYcQUyeUQIGImHqKi7ATrmMROKVBQILNMhBFipBo9ZFexC9HEwARzRA6VUo0OyTCWDYnX8EITEhLxBOt2UAYMyMfxyDMZwPBJ46F8k9Z9on7Vy776q9C/sq1I8loi+8K9DKWXR7/xOpqA8fqmSh93kxyfzT895L9ULcfYvEzwaMrPra4m6dhOse532/UU9+SmibXk5D3nidXkHj9i0x+rsxtWSImtfQAAAABJRU5ErkJggg==' />",
+            "<a data-content='弗吉尼亚州' href='https://www.forwardpathway.com/24579' target='_blank'>弗吉尼亚州</a>",
+            "25",
+            "0"
+        ],
+        [
+            "27",
+            "<a data-content='塔夫茨大学' href='https://www.forwardpathway.com/9227' target='_blank'>塔夫茨大学</a>",
+            "<a data-content='Tufts University' href='https://www.forwardpathway.com/9227' target='_blank'>Tufts University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAQlBMVEVHcEwAdcMAdsEAdcEAdcEAdsIAd8MAd8MAecYAdcICdL4AesoBbLoafsM2jclVntJ1sNqZxOO31ezR5PPr8/r///8HIJCLAAAADHRSTlMAECU1RFJlfaTV/v5FInXbAAABfklEQVR42lWTQWJbUQgDR8B373/bxv8hZeG6TlgybIDR8C6JZisK+785HzhLrYgU/BuX+qziiaxt0P7A1RxphMjETpPkjaeS7oYRuau93uuQFy5lryE8CtCTqsPOeeFieXQqJQVUFqNjKwyUPF29xX0JDqUK/K25M9Qyk716n7UPnqFGd/rhrR1ap6Hc/TgIqAufSt+tnVK6AwmdhjkTUqYeZzU4A5AKU9B630TpDKYAs0MiImEDqCrThEBxEvfFntLGEPnUHJWgy6XDjpzFowUmzOR19SSTJMZ9KYU3q1kqYjOc4Yg5Rd7vzEhBAYwZd8QWYpUsgxLARzNoobS7AHF7AtsAVQJUUVwGXMpky9vh4xwIkFfOpOA0JekjpYGlNoOnzhk3JAS/prTba4ZYfatLBhIBmt27QhjYkb/+tP8tCCj7RWVfru3qus8lpVxG2O693yKHCfmakjFxThjOx/OjmmeOG7Hs5Rz/TEm8kj1H2gvL+Z2xHG0EEf4RwW8hKSBdJ764ygAAAABJRU5ErkJggg==' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "29",
+            "-2"
+        ],
+        [
+            "27",
+            "<a data-content='密歇根大学安娜堡分校' href='https://www.forwardpathway.com/9226' target='_blank'>密歇根大学安娜堡分校</a>",
+            "<a data-content='University of Michigan-Ann Arbor' href='https://www.forwardpathway.com/9226' target='_blank'>University of Michigan-Ann Arbor</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAk1BMVEVHcEydjyOOhSmsnB705wWNhSm2pRt2dDKFfy3JtBO+qxaWiyZkZjY6RT1MUzdWWzrBuGEDHk7RyHBETTweMEL++LouO0QxOzJQYXwDGkX76IX/+6pXWi7+8ZyLiln//tNaYUYNIkGpol7f1HZ2eFKemVJicowWMFh7h5qUn7A+UnInP2IAEkQFGTni3aP///i4uI4cMlAJAAAADHRSTlMAr+uIFdVo/vsyR8bqL2xAAAACGElEQVQoz3VT2XLbMAyMZMmkbJAUb1HUffpM8v9fV8pJ07hN94kzC2J2gcXLyxOS5OV/yPZRGhDtDj/UHCKMEAIqGcbH/V8FSYSBEUYJ41RSwMfsqW+KQQJIq6xjBoNh8f4bGyODwFbQDEODKmo4o/iLT1IASqpGaO+99q+zUsgAPnzSETK0orlu67Kuy1K3YyexZOmHvgOmjMqx1WXdvr296dK3NRDE0O7jMxBqhR/zL4j6tQLC4u17hgmrGt8K5Vzf3/veudnr3BqKNnV7BGC31uS6unV1nPdCt7oCyqKtNzMEvNalXC7309ldCyO01o1ldBOXMlnNbVBNltPlfL4UZyO8bvOgN86CaWnUUOtAr6diXUNNL0rtRYVYsJ6kVKm86epS3tbidC6urhf1PIlK0W0yKaBqaGxZE34N9HJdQnNgOTUKZ5ttoFNOXz0pisuyFEWhRk3nwaKH8V3YFRWk8fJSbFjWe/lu80kSOG4zRWGkobsQ9sYDbv1cskkYAHhMNUXImLEjYzl0vSPNWHZ2DKTEj0zsMeGuE50agp289u/EivnGDYo+1n1knLtpnCyZ5qFhthOD4pzEn4E6xJJDBbloOiq7KRdAQak/cdljBki5bn6sc+odwO9tf/LIcK4socTQPrwA755SniLCCQmRU0RxA9+D+tC3i9E2H0IkQ3GU/XMmSbihGCEcH3fZz1eWZAFP9/MLsJYzdKBfKawAAAAASUVORK5CYII=' />",
+            "<a data-content='密歇根州' href='https://www.forwardpathway.com/24383' target='_blank'>密歇根州</a>",
+            "28",
+            "-1"
+        ],
+        [
+            "27",
+            "<a data-content='维克森林大学' href='https://www.forwardpathway.com/9430' target='_blank'>维克森林大学</a>",
+            "<a data-content='Wake Forest University' href='https://www.forwardpathway.com/9430' target='_blank'>Wake Forest University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAS1BMVEVHcEyHbzx0YTWbfDgqJx6efjkhHxiigTmkgzkUEw+kgjkHBgWphzwXFA4AAAELCgkqJBY+NB9SRCdnVS13YjOGbjiRdjqgfzqyjkA1I1A8AAAADnRSTlMAGjdSZYOYobjKzeb+/r0yeWYAAAGkSURBVHjadZJZcsMwDENlxXG8UPtC3v+kBeUqnU5a/mSiZwIgJWOMWaxd123bDtR57vvr+Xw87GK0VpxeIfi7IokWoU58Zs2FQ4WxVK2ISrkRMePL3VyhtF6jD5mEpKlEKEw1upgJ2LEwcQ4+dqIGodilpeGk3a4zhKhF75oAJ5bi/BuHDh98wMmH1n0iyTOnYhXl8UHyrmSiNGkf2Lv65pFl0oThXhBH6smjo6mchCvwEVpGqNs/uSmN3pjkaQ5fREWVFmytj9ROnQrw5rNw9Fnbnc9ViuKq8as8zIpObCNgj2hu2IJTYywAEy/GOvwgUCKc1w6tAiBRxz5xZTAn6sH3CucGVw5JKgzU2sAcjQiSNQs0kVTDqrYFts7Dt/oQcACM8Awx+O/jQYz2EWjcmEZB+tCQW8sGX8em832h5f4zgt3tWLXOeWOsIOpeHt94ub7H4fs5EENPXmbWirxjpIEdkhU5F/PDfRh7n7jIGOpd27ikG8NE3saT61OU2/uTQv/CU6KOB81yWvNR9kBjLpB4LuavWg/ckuzW/FPLur1+u34BV8ssvk6q8sIAAAAASUVORK5CYII=' />",
+            "<a data-content='北卡罗来纳州' href='https://www.forwardpathway.com/24947' target='_blank'>北卡罗来纳州</a>",
+            "27",
+            "0"
+        ],
+        [
+            "30",
+            "<a data-content='加州大学圣塔芭芭拉分校' href='https://www.forwardpathway.com/9392' target='_blank'>加州大学圣塔芭芭拉分校</a>",
+            "<a data-content='University of California-Santa Barbara' href='https://www.forwardpathway.com/9392' target='_blank'>University of California-Santa Barbara</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAw1BMVEVHcEw5Lis5Lio1KiQ3KB86JBk5JRs2JRwuKCYtJiMiKzUPPmAdMkITO1YPR2sKUoEGRG4VYo8VYpEseJsWWoIJZ6IsaHwfcZ0vbI08dIQmfKpTcmg7fpk6hKZUhIhOh5WYfDBLjaNlio5XkJdFmcFulJBil6Jpm51/lZNKqddro699oaeLp4WroWGLqKh6rsVrs9espKKaq66UtcKmsrWAw+a7upWvvsOayeLHwby/x8jOysi53O3a19bi4ODp5+f29fXeiKeTAAAAFHRSTlMAExwyQU9ga32OnaqxwMzY3Ov9/rQMOMkAAAIxSURBVHjaXZPNbttADISHu1z9WXbs2AhaFC36/k9VFA1ySOI48lpaaZdkD6nTtDwR/EAeODOM9yLniEhN1d5nfG08O0/koGYiIv9iF7xn1o4RISIqWT9gXzH3glargrqLuRS3yDvmijfUXdICFywVux3TTEv5g30VVt38zLZz9fl2GtNQbQbnJgEYcBWv1pfU9sgeOG5ubuLUajdWycBA4HqdUtsjI6euxDr09WmrUsIChve8u6TtHoCXM3a7BKvkdY/kvTC8r5phu/MszvkazI1JofK4a1SEybvunvrsPNQpACMA2Oe5Sp7YeV8FChlguz5TEcCyuXjHDmEpX2AeV2hwOVf7hzosxESVMlB9kMagKQd3hBETcUaLKbxdBYByRC0FNYEYmEMBWnrf1oQulPBcxIHNfHPJ7USeDA4AlfHmKHcZmNXYbGQAOaNtoIAqj8d1m1GCkbGqFT63YvPpsHbARerD2FuKqyaKsaqwDc3563S6uBqIzRPqY0MXGxdVNpWoFjG3ZT5L8zL4w7j45qTNVMwYIsvBhu8v47dp5va2im5feB72+goBQyTHvvu1bWU9n6d+CuAQf3bLICZgoLiIzfK0WaF5nMu87S3+CJuHBRlgQDNFbObT9Lk9CHp/fhy7+n5CtjevSea4uLX9hPMuA82n16cJRa5OLYY5RNxO093DjaxPD2VB/mtkiLFlfqJwxlIGKSbZPqZEF++VaI5IZqZF/8+YCDkHgpl9iOBvIuBaRPmh14gAAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "37",
+            "-7"
+        ],
+        [
+            "30",
+            "<a data-content='纽约大学' href='https://www.forwardpathway.com/9777' target='_blank'>纽约大学</a>",
+            "<a data-content='New York University' href='https://www.forwardpathway.com/9777' target='_blank'>New York University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAGFBMVEVVAY1NAJJUAI1VAY1VAIxTAI5VAYxWAY4b18jhAAAAB3RSTlPuBVN4sinXHSVpKwAAAIhJREFUGNNjSGBABmwM7OXIoIBcfrE7Kj9VnQGJX1KuGG6MxE9NFlQRQuIrGooaCrHA+SVCisGCwcpwfrGwoKqQqRgy39BIMBxJvaqSoqA7knlGxoLCyPabpCinI7vPVVUdxb3JSuYo/JJQdlS+KBpfCNX/ZWj8gmD8/HIVNL4JGj+B2PBHi08AYc+i+4zp3EYAAAAASUVORK5CYII=' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "30",
+            "0"
+        ],
+        [
+            "30",
+            "<a data-content='北卡罗来纳大学教堂山分校' href='https://www.forwardpathway.com/10081' target='_blank'>北卡罗来纳大学教堂山分校</a>",
+            "<a data-content='University of North Carolina at Chapel Hill' href='https://www.forwardpathway.com/10081' target='_blank'>University of North Carolina at Chapel Hill</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEVHcExSm81Un9NWodZVotVXpNlYpdtYp9xaqd9Zp91aqd5gtO7YAKGFAAAAC3RSTlMAFTBNX2+Ep8bh/vyRH8YAAADnSURBVHjaY2DABpjc0lIUEFzRrt2rV003gHEZK8oqV61avUwAxldgEMoCChTC+KZpaekdM1dthxqWluoaFhJi7NaVAOarpaUXV7iWV7S5QDQIuiqZKDAwhWZtY4RoMDWIDmBg3sa2DWqed0C0AwPzVualML4DiL+NZQv9+I6uwqjyVah8g5mofEMUfkC04SrhbawwvqVBtGO58DbmyRAuS6uCmgIDYxKTWTE4RI0yZpalhaald67aBY6DimTT8o6ZHatWrdoJ5ot1tqeGhlWsXrUiCWKAUHjHzJkz21MVETEmKCgIYQAAx9tZ9iPV3TEAAAAASUVORK5CYII=' />",
+            "<a data-content='北卡罗来纳州' href='https://www.forwardpathway.com/24947' target='_blank'>北卡罗来纳州</a>",
+            "30",
+            "0"
+        ],
+        [
+            "33",
+            "<a data-content='加州大学欧文分校' href='https://www.forwardpathway.com/9317' target='_blank'>加州大学欧文分校</a>",
+            "<a data-content='University of California-Irvine' href='https://www.forwardpathway.com/9317' target='_blank'>University of California-Irvine</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAaVBMVEVHcEyEdDL//Br++h3/+gS2miz84SN2ajSfiC/nvif+6SOfhzDSsymEdDL/7SH//xDYtCn/+B7yzSWahy/CoSyRfTL+2iS3mC3rxCehiS8ACUEHGz8AEkA/RDtjXDcyOTwXJz4qMzxUUThARKQ7AAAAGnRSTlMA7xwsBc1n/eaEU/6k/EQSxDeR1OX+e/mqsdgMVk8AAAGySURBVCjPdZLpdqwgEIQRZFHEfQs7vP9DptF7k5nxpP544BPori6EQMNYgcSJLjWirFaC/mtYtLXa0Hs1p7LiL3hUybqt+3daZhv5y2k0MK9Vi/tLZBLWzbj+xagFjCeZvc8bqwE3CH1g0vPyaP4DY9yJaKpuqhcdPnC2kvVsTGZlLVtDfsfs2Dbus0xG5uy5kuM+/dTWn8pFq7VWwWwGvtbErCjDBdbzlrSOIfPqSOYQFfcuwU+Rn3Wh3urAt2PvyZkMJaRduTwqZ6q+PMu14aMyCmzqQnEWPHYzaVZWrqbQTNtmzacb1wgvV99DqQ0XB0vfD3zbLWzq6v4vDFs6d/vr5cNiwTXcDgUTEXWQ0svppzQa/dkIdd/Qi6ChM0m7ppi6N90qlQ+QiPayhYw8FaeSu0wNKYIpNnnB7ufrdpQ+RGO3Yqo1JmUvutvTe2KbP8avZQVTl4UeSp74EQfcXgMlmNrwiAMnk3TGuI2h5TMtE9d5n7yN0ToGofLsDQ/UmGoev0DdTKOtCHqPyzW3HdRVEQb2Tu+pRweKWrtxQA8uIFAgE9T5oKW8hgoQnfvfvW8EXSsbDBNXLgAAAABJRU5ErkJggg==' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "42",
+            "-9"
+        ],
+        [
+            "33",
+            "<a data-content='罗彻斯特大学' href='https://www.forwardpathway.com/10147' target='_blank'>罗彻斯特大学</a>",
+            "<a data-content='University of Rochester' href='https://www.forwardpathway.com/10147' target='_blank'>University of Rochester</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAyVBMVEVHcEwEGbsDGqsADbQCLo8FK5gALZYAMpFee1IBOIwIQoVXeVUcUnhae1MiVnSTnT23tyUnWHOUpDRJcGA2ZW5PdGamrC0FP3qSoDsAOYhqiXH+/v4+Z2YYTmhYeVaHmD9lglGdpjGbt89IeKV2jUeSqJHGvxrSyBYrWWlyl7yvsCfczxGyyN0zX1tJbV9ahLC3tSGGnXm9uR6nuaW7ybTn2RAkVG+Ak0SEpcWTra3x3AfP2LzJ2e/Y4/AsYZjC0dLw8dXv9Pj87wJDfRtyAAAAFnRSTlMACBMdJzlZcX+Ppqe/wNTV2+Lj6/b9IxW9jgAAAfpJREFUeNqVk2lz4jAMhskFJM2mZCm249z3fR/cUPr/f1Qdlp0C253Z1fiD7GekkaxXk8m/GkXTNMMwNE09vrPcdMYLoihJkizLkiSKAj+bcuwNC5q1Nk0TeYW39pDhIYTMtfUm3rJMrcTQojzXdcPSrGjI80gzgDW7RTNLpEDc7jusw6vTrqCyXnJfGOLzITucawjrbXyItzW8x6a23Rydo7PV8vfMdcrsXfPuMc42aqY6To1VJ85iR8XP+OJcnAxjtSS4fMLa1nVPrjsmL2EMy8fk19KOhzMmpW1O7smpofmFZU/Rcdu1NWk4x77vY12x3n5hinlBIEgaGwQgTau0qgI7CRpg/2BGPH8FH2iHelD1YLcDSdokKNmF4AO8vpBvnffJzkZJCJoepCHBAUB2n5i7qp+TaHpRpWFATpM2VdCEVZgGYdBXYQPYKw6RbRqGUWiG3/q+oRXkYtooDMbi2J8LqfAUYnp7iMusG0bfKqQFGjHFMoxoRwpp+eKWp43qQ6gMtszSLD35PXGTBHfqJnZjdU/Guvb4OznRol2M+Oi6DsFKAWTmXm7cG4igT3CpkuQD0KaPcpytwBDtVadU99FgG/yzjHkDaJHfdX6UA0ug/pA5ibd0YhZY8dQ3azCVTVQUNpJn368Jyy8RWgnsX/eIEwRu8h/2CcfSSHD7RPuUAAAAAElFTkSuQmCC' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "34",
+            "-1"
+        ],
+        [
+            "35",
+            "<a data-content='佛罗里达大学' href='https://www.forwardpathway.com/9687' target='_blank'>佛罗里达大学</a>",
+            "<a data-content='University of Florida' href='https://www.forwardpathway.com/9687' target='_blank'>University of Florida</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEUAUo8AUo8AU5AASYn8/v4naZ3d6fG0zd6Jr8tckLcbQSF8AAAAAnRSTlPt9CeTdpwAAAB/SURBVBjTY2BAA0JKyECBgYkOfGMlYxCA80OVQkEAxrdMay5LT3NxmwzjuzS3ZKSUlzTD1KcEhxSXBEdMRuFPUjaC8o3AfLdmJRT59Mmo/GC4e4xSJrcg85Vb3FymujQj+BopGZZpRQj3K4cGK4UGIfnP2AiE6BJ+qPGliB6dANBXSb8TA9yrAAAAAElFTkSuQmCC' />",
+            "<a data-content='佛罗里达州' href='https://www.forwardpathway.com/24028' target='_blank'>佛罗里达州</a>",
+            "42",
+            "-7"
+        ],
+        [
+            "35",
+            "<a data-content='佐治亚理工学院' href='https://www.forwardpathway.com/9391' target='_blank'>佐治亚理工学院</a>",
+            "<a data-content='Georgia Institute of Technology-Main Campus' href='https://www.forwardpathway.com/9391' target='_blank'>Georgia Institute of Technology-Main Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAALVBMVEVHcEwAHkoAH0oAH0oAH0oAH0oBHkoAHkoAH0oAH0oAH0qxkD6KeUOykT6wkT/tLDSSAAAAD3RSTlMAg9KWX6gnRnDrvkYaYTLuo2mlAAAAnElEQVQY02NgGFTgABp/DwOLBUysAojvMAS1CngkFKaVpLg7Z7gB+VMYhVUXKqpOjBIybdUCqtfynKQRtWySgqlTUPAiID95sbipm6h7Q1VQo7AgkA8EPAzOggXJIgxtDHz7IEaXThR0SGyfLMb7FsJnn6KsqNihvArOnzgxcIrHdCHu1xA+m1mzTKm5WCHfPVTnct9F4+8e6AAFAE1YKdGlfY0zAAAAAElFTkSuQmCC' />",
+            "<a data-content='佐治亚州' href='https://www.forwardpathway.com/24200' target='_blank'>佐治亚州</a>",
+            "34",
+            "1"
+        ],
+        [
+            "35",
+            "<a data-content='布兰迪斯大学' href='https://www.forwardpathway.com/10148' target='_blank'>布兰迪斯大学</a>",
+            "<a data-content='Brandeis University' href='https://www.forwardpathway.com/10148' target='_blank'>Brandeis University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiBAMAAADIaRbxAAAAHlBMVEUMJVkOMHEOL3AOMHEOMHEOMHIOMHEOMHIPM3cOMnKrqf8WAAAACnRSTlMCNRyITXdjmvvJt83P/QAAAbxJREFUGBlFwTFz2jAABtBPqgurZGyzSpTCdSM1clYkVFjrCsN1wzWYNUBwyZzrnTNz19J/20CTy3v4L3KxyvGGuhnnQaEEXi10RzNJewe8aC+JnzPZZY0trrwtwDnXnKE9wsVUSGLXWWmZT+/xjGwZmbh9fKtWgvYZgCYzwUJlWeYOukvuAJSCjHM7mVj7Zeh3SoDudHDgADqgsTZNgcYPOk5KLf2Ay2LW6S3xLuCbtdXWRkEwryIzQAtdlX3/e/E7i7VIsaK9KjvW9UNd/8qc0SVmOkzUw7G29ekUF7kIcSNCpX5+epLn3SkuUtPCDuMsrvpP4fmri13KW/jstzJVTetzPdvHLsUHDP1QqePxkR//PMZFihZShIma9QZomrUqchGiJFHiBC6IctqUCIOucqwxXBtGlDLiBk1GNsXIs6vNsjGvuD/Ae2PGybcGicrRx2ImG0vQbSfYlxRS0DLWvC+AUsqNGgHw3ND35wCaWgSLoQAtDjqSdwDIDnJyq+xiv/J5W+DZVDI+Wau59S29x4V37/mSc95hfDrCVTv1BJXUmN4WLzY5PDLivQqvqEsCrotK4E3k4izH1T/liGofrnYKoAAAAABJRU5ErkJggg==' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "34",
+            "1"
+        ],
+        [
+            "38",
+            "<a data-content='加州大学戴维斯分校' href='https://www.forwardpathway.com/9319' target='_blank'>加州大学戴维斯分校</a>",
+            "<a data-content='University of California-Davis' href='https://www.forwardpathway.com/9319' target='_blank'>University of California-Davis</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAflBMVEVHcEzixG3ixm/ewm7Yvm2+qWnNt2zIs2vGsWq5qWm2pmmil2SlmmaTjGO5qGmCgGGlmWWyo2gBGk8MK1kcN1woRGY5Sls8T2w9V3hLWF9GYIZdZmNWaohscmRoepF6ip+QnK6ho5m/rGrJs2u0tbLHx8jb2djq6un29fP///981YJjAAAAEnRSTlMAEiI1VFdrjKS50tjm+/z9/v6Ry0x5AAABlklEQVR42r2Ty24TURBETz/G43GcF4T8//cFsEVsxzNzb3ezAKEIIZapZR3VplTl/Ff+UVgEgaKov7GqqYqgZFWSFZV/sA1u+5bFr7iZco6IFQd0M+xbXgFR04b0mHKqukY42Pg4LyiJqqntWC7VXTWHFo5Nuyvscp02piJSOY2nPMdD5tCcze0Cd73fDipAQbHrNsnL9m513yxwW+u9CRDN3SpC9Lw+fxN33y3Y5vjoQGVrniquy7jmy/NBXBtM69aBCmhTlsCmJuXl+eAKaDegQrS3ZazsNWiNTetdqZWqCec3K2CrTMsxPAXSAkql4jK9PnD6dCRuagE8theu93OJUjmPmxHy+PjVfpQ30vvJKrrNE5klwwGA4xcOste5e1y3xnk/uxZxSiPMiGM8yfq2Ozmr7a95mU7TIJYETwDf9PuuxlNzaj5+fovLcPZRFalD6F3epGnaHA55/Trs15V1FRNBhUCMpqeGAzX37g+9VQGSBqK89oj4XUvvtpiogCZJVkVlvdtaBCICUFT9a6nv3I95yU96yfWqvdENygAAAABJRU5ErkJggg==' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "46",
+            "-8"
+        ],
+        [
+            "38",
+            "<a data-content='波士顿学院' href='https://www.forwardpathway.com/10313' target='_blank'>波士顿学院</a>",
+            "<a data-content='Boston College' href='https://www.forwardpathway.com/10313' target='_blank'>Boston College</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAkFBMVEVHcExPSUAEBAQCBARHRzwhFRg7PjUCAwIXHxwzOzFxW04HDg0JCQgeGRlQLi5LRj6CZFliWEprUkoYHx1bS0JKTEI2JSVDQDcSEBEyJiWuqaF1e3aamJiPGCyNESiYITORU1BSGSKcSEubV1R+W1KaMDyfPERjHCdDGB9vFiU1GB1/GyuicGR7NjvFysb////hMl9LAAAAHXRSTlMAvwct0/6jD2qG8z8cyvj0/tf7UuZyjseV9/PoscHGsnsAAAGjSURBVCjPjZPbcoMwDEQhxBDMNdxpKxsDxsYk6f//XQVJ25S8dP2AZzRnZK0Wy/qXvMr9ke/n3q58Gocfdd1Yh3/hY88Yg+0wAN6ddjCfr4itkljOgj0sRvtU4jl2wPra+wsvKk6c9eqcJeNjblmB8wTPQrfnVbRnfKgPltUEvzAoY+J+QknejzWCeeQ9dzZEC+CcMXlJcKq8jcLfZ4MiRouYUnyXpF5YafNdRhhAECK0iqIB2FSfYq1J5KDuMJMFlmfkrzhzq7TSLaVZ1tw7Q+c2WF60EPMUz2KZBUg5pcG9M79kNDEzgBIqUUosMVrHBvcBo42cE4FfoTRoI5ILNqQrnG7joq5m4RzJmZjKHSRfYaup7YeKlghFxDImTZCklBarbYdvrc4aYhZ1+/wIncdUT2tJOZuJAv3+9la+pgnhNEFaRIFdel7o7WBQt1sWVXHs1kVRRC+BgKtdhlZuJ6OUF/uwSxM6u20hpxiI1zTBcPRXnXEtg72PIkB/j2KPS6OvMEZ4DTMaPKX+7tmPEG8az/7uH6mwZ7V1rvwyD61/6gtyZTYsJDxf1wAAAABJRU5ErkJggg==' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "32",
+            "6"
+        ],
+        [
+            "38",
+            "<a data-content='威廉玛丽学院' href='https://www.forwardpathway.com/10146' target='_blank'>威廉玛丽学院</a>",
+            "<a data-content='College of William and Mary' href='https://www.forwardpathway.com/10146' target='_blank'>College of William and Mary</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEVHcEz20ADzzgDzzQD40QD0zgDvygD50gD50AD71gD60gD81gDNNt9LAAAADHRSTlMAYSY6eUoRi5nAqtPQmnfXAAABP0lEQVQYGa3BO0sCAQDA8f+deTWe+cCajkyRpvMiqk3toTUpPihbTi2MJqHw0S1lT9uqo0ynrEBzDUL7cmXRF4h+P/7BLOAFEnzL3kDWloBFF1/EagySNgcIDQUYLSuw3a2B5bIIZJ7n0rOpkFPLaWsvIF2erc7HTRaW7PmNK5DMtn23vb0k7517Z9Z1xJ6cD7zpdcmw+4SBgnCo4tm6M2aup7BeyIwuB9lZHHQ+ntKMRIJYmyoUjLBZ0rE8qIitGIz1n/tHIDRVhINz2HvvGW3wu2XE6ycpEXEaSYdHz6zpsHk/5zN9k7mt8VT1FpjunCRdWiDv3c9UwkDh8VETU7aEsjM5UQSkerNkiVdWVH/XZKhwWlXzaNb76CpDlvrrccjhiF41FL5ly62LVKVVlvkhuZ01/M6Qzi9RQVT4i0/0a1B1eB2xqQAAAABJRU5ErkJggg==' />",
+            "<a data-content='弗吉尼亚州' href='https://www.forwardpathway.com/24579' target='_blank'>弗吉尼亚州</a>",
+            "32",
+            "6"
+        ],
+        [
+            "41",
+            "<a data-content='加州大学圣地亚哥分校' href='https://www.forwardpathway.com/9320' target='_blank'>加州大学圣地亚哥分校</a>",
+            "<a data-content='University of California-San Diego' href='https://www.forwardpathway.com/9320' target='_blank'>University of California-San Diego</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAWlBMVEVHcEz+3AHSog+ngh2PcyVvXy5hVjNWUDdUTTRHRz5kWTcWJ0gsMzpBPSw7P0GEdEmmkF2+qXfUrFTbuGzTwpffwX/jyIzlzZfp06Tt2rDy48H779L89ub///uFQYNAAAAAC3RSTlMADytTfabH4f3+/qE0twwAAAG8SURBVHjaZZPNbtxIDAaLPy0pxnjf/y0XWNiekbrJL4dJMjGWJxJ1ZFXybQx9u/O1urkZkrr/j8MjfY5pRlfVd2yZjKqUQgyOe/Vf2DMdWQeBWtHhq/5gH3vjfkSvHtGPM9zirF/Ycp8R+0Aypvvb8cWM7ewnzljp76gbZbdbvH/Qoy5IiMD9NjvbOg0tan//j8ujSHDv+sdm4u6rduhacft3rGglHqmwZbZIWTTIWb5fg6rE/OLNcpISGAY9sn6cYCSu4RsTEAhrk5cHW+EkNmRa7iATgNS7HodhZmnMoJN2IUAmY3lVrMYSG23B9fpnOxXpsJ2khIkVLX8+2+jw67BiQaIVKvMyMwRWpORzF5ISySaxDlRujbJOYpt1OVLSEPeborF2Vztp3mPF3C4S1dD51l9w9AV2CQvzB5wiUSH7vCmv8uighvVmH4s4m4R+jFiftwsr8+iwbLtP0ypI0HJYH8dh06tMmH3cg3joqUPPjaU+Mj0q6XnvbcbXb5moz1212m0E9+pzLPRYL1PrjLClnD4Hc5vSU9Tfnld37JeX2TSn+5fmfyrR6rLTy9W6XhW9GuvGno39leBPByQsODShxY8AAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "42",
+            "-1"
+        ],
+        [
+            "42",
+            "<a data-content='波士顿大学' href='https://www.forwardpathway.com/9683' target='_blank'>波士顿大学</a>",
+            "<a data-content='Boston University' href='https://www.forwardpathway.com/9683' target='_blank'>Boston University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAASFBMVEVHcEzGAwO7AADzvLzaR0eoAADNFBTgXl7dUFDTKirysrLwp6ftlZX0xcXtnp7piIjldXX30tL//v78ycniaGj98PD54ODYPDzCYBjNAAAACnRSTlMAVTH/zhOA/PqpjEi54AAAAbJJREFUOMuNk0lu5TAMRP1N25I4U5Pvf9OG/NPIgCyi7QNLZLG4bX995+sq5Sjltf8C9+swjoaNOJXXT3plbYIzDIQaeTm/6RZrKIiqxoSCQsf+lRJikPXek/euIgj584PCAGS3QaCGUMqE1PL/+pdPgn5HVVZlmzXfSELlQ/oAhXT3ViczG9Zhizd7y18saLcnqWKsRmO4pxsEjo9ixCwzKhAACNCYMZKR+CrfXdRt1EVxcaJaByREvVZjTOBAAhhzCk6IwCBxxrbULxTqoWYNp7jjrFWNgw3hOLetiGgiZUPznNPtRGxKbigPbqPlhVNOKbnnlDsruY7Rz2272ogeC/eecvae3ZiDuY5VfTFAF122EjMnN0XRcIWntT2FvAdTAQAE1rEGA6TrsQWBcow5UCFEQOeYI1nEY8tSR7stRQUm4repGbEdTybO3FTy3eVZCcOzEgqx6yNItly/o9JaKM/abwJ6GnvHQQGhZ33HAXtGis84bOdBTYC8u3fv3WAKptfXsHGIVlBlJYkAzN+yfF4JW0UGQJnQvPw8hb0kRmjYkP14/XpEpRzHUa79z3f3DyH8HlPfOEcDAAAAAElFTkSuQmCC' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "37",
+            "5"
+        ],
+        [
+            "42",
+            "<a data-content='凯斯西储大学' href='https://www.forwardpathway.com/10149' target='_blank'>凯斯西储大学</a>",
+            "<a data-content='Case Western Reserve University' href='https://www.forwardpathway.com/10149' target='_blank'>Case Western Reserve University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAP1BMVEUNNVEHLEkMMVABI0QJMU8GME0LME1HcEwAJ0cJME4qSmVofpFOZ317jp6Jm6qTo7Guu8a5w8yjsb38/f3c4eZNibkVAAAACnRSTlMSIv//gSBxAN7hR5m6sQAAAOxJREFUKM+F08F2wjAQQ1GQSkNGGsex8//f2kWhQBzo294zHi/s0/Sx0zRN0+V82XW+PPg0z9d7873TEyPu4dYzX6MuJSX5DRf+hnf8B+BHZgQHfhKN0wsAgw7S5gETAgSGjnYHIFpEObyajaSCaTIQ+8Mjo6DQC2nDcd3tThcn1qAEDkxlWbSYRRx5DdfWSotqHnGrvW81WzAOdld4631rdkmD2k+DqL2vi4LkwBUg1r4VSTaOpomtV0VEjBwEqDWXNMgcp0kywbBj4K1kZqo2SUq1F56hzMxM3TJeHzJ3vfD319D3g//7Y+/7ATPSGOSyBbW8AAAAAElFTkSuQmCC' />",
+            "<a data-content='俄亥俄州' href='https://www.forwardpathway.com/24202' target='_blank'>俄亥俄州</a>",
+            "37",
+            "5"
+        ],
+        [
+            "44",
+            "<a data-content='杜兰大学' href='https://www.forwardpathway.com/9684' target='_blank'>杜兰大学</a>",
+            "<a data-content='Tulane University of Louisiana' href='https://www.forwardpathway.com/9684' target='_blank'>Tulane University of Louisiana</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAUVBMVEVHcEwAAAApIiI+NTU9ODhYUVFybm5+fHyMkZGXoKAXSUkrTk4hW1s7V1cnYmIxaGhOYGBIfX1mdHRuk5N7m5uira2+vr7My8vm5OTx7u7//v6dWZdwAAAACnRSTlMAETRgfY+0zvD8b7ZbaQAAAVFJREFUeNptku2axBAMhel3Ii1VDO7/Qjfx7G7HdM4POfVGkFKKNU2DBKXHZRl1s8M0qT/NcVvmaV4AQgBodkvzja/z4vlw2eOwzYUzvGOiQ2RZh1ii6x0fMo0oAZEkhB4b56NHa5GDMw+MqSbDy8iwwSf22aBhocn+gY2HlF5NKYE3PSZXayk515pzKbU66jBCBdjNXgoPAHXDHr/AlZ32kmVw8OoxeeNvzB99ce7JO+bOfFyMGB+CefD0uDef3SNjg57P/cCHycU7Xu055XhgblutKedUq7T+gS062HLewKH9hi2hkb3JfuAx/GJXixMse4//eAhWfqWL0vPoWm4Y/rFeL15CfDaRF3+tWt3V4eR6u2/a2Z5w125P2XIrqImpjbPqtMST2p7yJs+49FTpGYKlBm2AWatPjWu8LJG94jqqL9KcEELcRq2+ixPWHv4AWRohgIHxpKMAAAAASUVORK5CYII=' />",
+            "<a data-content='路易斯安那州' href='https://www.forwardpathway.com/24381' target='_blank'>路易斯安那州</a>",
+            "40",
+            "4"
+        ],
+        [
+            "44",
+            "<a data-content='东北大学' href='https://www.forwardpathway.com/9393' target='_blank'>东北大学</a>",
+            "<a data-content='Northeastern University' href='https://www.forwardpathway.com/9393' target='_blank'>Northeastern University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAGFBMVEVgUkFgUkFgUkJgUkFgUkFHcExgUUFgUkFrZshCAAAACHRSTlNSPmgrfwAbqEhpu70AAAFgSURBVCjPNdExc6MwGIThlYRxKyGd00qCxC0SwWkBc9Db97nGOUPvxDP++zee+Lp92ndBRHTKOu/d/JggoqNnpVqkn5/mGglfhbL58eXNKl3Vysa3h0/tOwuA1ZHxh/+wKRRalZ1OplcCWbMZ7Zlvkqa0jnDc28my2KeyELmZcUA6Fm7CJrNdxAoxq4qeBR+wdaUawNnlZqGsTNh9bx1cs+ZNwxjs7XC1gGNiGzgUHz4GCQ4nev39d6mqdOFnmUDk9+R3fZT14qeiNGD7dPtrI5neJfJuDPKdsvVO6bALLs4RA/WoasXEObIwR+S0Nn09E11uriUAU4g9og+mWX8vDtGErrtn1nwVHXMDDlq0Skmw4H35ucJx794lXkarjNNmBvFSrdtklEmmdUuggxbx+jJeM8Hjo9epmdKyKL6EFP7ZO1eVqkr305uoSCWQadn8/6sQQSve10/Tife+7x6kf4xhUlEEC6/7AAAAAElFTkSuQmCC' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "40",
+            "4"
+        ],
+        [
+            "46",
+            "<a data-content='佩珀代因大学' href='https://www.forwardpathway.com/10355' target='_blank'>佩珀代因大学</a>",
+            "<a data-content='Pepperdine University' href='https://www.forwardpathway.com/10355' target='_blank'>Pepperdine University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEUAIHUAIHYBFXI8OWj////25NBqWW//++oiJWTEpZOih4XmzLdOhlczAAAAAXRSTlPuB1QXGQAAAIhJREFUGNNjYEADjILIQIAovpCSkpIiEr/Z2NjYQgnOF8rcGhoaOk0RLt+xxH3VFvdFCP3prkadLmWKyHyNLV4ofKEpnqj8JejyqPqVQyahmG/tbYTMz4xeoYjMN0NyL1g9sn9AfEEK+BJL3DOQzBOyDA3dmYQkL2xsbNaIHL7AACUl/JH5aAAAZTk12TiE0CgAAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "46",
+            "0"
+        ],
+        [
+            "46",
+            "<a data-content='佐治亚大学' href='https://www.forwardpathway.com/9780' target='_blank'>佐治亚大学</a>",
+            "<a data-content='University of Georgia' href='https://www.forwardpathway.com/9780' target='_blank'>University of Georgia</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAgVBMVEVHcEzo6+v8/v0QCAj////+/v4cEAz+///+/v7+/f788/T88/T69fbLycjyxtD10tv9+/z1vssMAQAXCwcfEw8qIR+/AB9FPDnJEjZfWVfNKkpycW/VRGOGgH/gbIeYk5LkgJWrqqnml6i8uLjxr73HxMPQzczT09L5y9be3t305ejLyU10AAAAEnRSTlMADQ4SHjw+YI2lqqva3N3j8v7p0c8IAAABPklEQVR42s2S63KDIBBGSWJq0hqVq4BgEMEo7/+AXfOn8fIA/cY5s3rYnR0HhJacinqT4oT+ci5Cwn4KIXgM1TRNa1067FzwwZjOT847V5xX3dCJpzBhIMY44Y2ex9cIzwuyYF4Pf3DKGKME8i7447zRlBKurFWMQLnXjKixt7aPihx1ExWbZXgzKrLXhI/NMpaSJh50E9sz/g7rW7LVjKc5xjiOgHnmbNvNXi1v+NADbDxYDTam5GkBaiCHmpHnE6AG+n/1bnPKkoUfHgeATZRudNvWvVIqjYAhqXatixBq7AEJkGq/vkynUsraCSEmDPBJyvLzMqEfI4wGo9+Al+9Pi65YCiENRC/HJL6uNMqDFrrTxnedETrkaJO86rSUQkqtuyq/fG19diudkdK48pYhdEG7ZPm9qu559vHpF7RWMG60yG0PAAAAAElFTkSuQmCC' />",
+            "<a data-content='佐治亚州' href='https://www.forwardpathway.com/24200' target='_blank'>佐治亚州</a>",
+            "54",
+            "-8"
+        ],
+        [
+            "46",
+            "<a data-content='伊利诺伊大学香槟分校' href='https://www.forwardpathway.com/9431' target='_blank'>伊利诺伊大学香槟分校</a>",
+            "<a data-content='University of Illinois at Urbana-Champaign' href='https://www.forwardpathway.com/9431' target='_blank'>University of Illinois at Urbana-Champaign</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAANlBMVEUAPnwAPXoANocAPYEAOogAPIIANn4EPn4lSHpLUGdRUWRAbJ2LZFSdaEl3l7qVrcnR3Oj5+/3hry8BAAAABnRSTlMBRku6zeQvplJFAAAAqklEQVR42sWTSQ7DIAxF6WQDJh7uf9ka0ihRgGy6yBMrHmCEPyGE8PoMeYSVd1pKDz43XUpychs/8hJ3nQAQDiDgUWdAn4kObpw0kDALqyPQa+SqxcyUBxpcE7OZIIwOR8JIpEYwqu13q+XV4kS326nijRpu3P2Xnj6qvznPWwLer6p12FBEEuE1DnVBFwfzHFmDel2zsHE+PNXa8yCXeCYddF569k908QW/z0EYwtjQfm8AAAAASUVORK5CYII=' />",
+            "<a data-content='伊利诺伊州' href='https://www.forwardpathway.com/20231' target='_blank'>伊利诺伊州</a>",
+            "52",
+            "-6"
+        ],
+        [
+            "49",
+            "<a data-content='伦斯勒理工学院' href='https://www.forwardpathway.com/10145' target='_blank'>伦斯勒理工学院</a>",
+            "<a data-content='Rensselaer Polytechnic Institute' href='https://www.forwardpathway.com/10145' target='_blank'>Rensselaer Polytechnic Institute</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEUaGhobGxtHcEwaGhoaGhoaGhoaGhoaGhoaGhoaGhobGxscHBwRr7kdAAAAC3RSTlNNJgA9YAwYdYip1t8Z/SYAAAGNSURBVBjTVdE9T8JQFAbgUwqoW78uwa33ArVjC6VBJynIx0YrRUcpUMJGaQ3RCYkDcXIiURcTXYw/wKh/zlvUGM90ntzkJud9gdDBGlvSWCFeISabcXzX1oRvF8BDwWGYVsDZ+EyQAtAiJsCN2EpjHNUct8ddW0OPuotOddxcRagU+kfUTFb3V9W+sUJbKY4ATleWOw3XIZ3bri4LIA+mx/d3N881aJfdTAI4OZzsvl++NZvMepxiQM9bC/muvR6WhW07FCHd55cKGEY0L6p80IHU1tDKtR479Qsrf1SXwYST4t7nO3n4nOVmMAB9fip8e4nPkyKYU/XP9L1cV4v5ja3cORxDqt618Cv1h5BvJOn/2f6SHFA/EZWrdUDX0ILgF3IvkG1bF4HLhROvUOFDF6+NIkPvaYlXvDSq8vulqZkAnGgjZiSx1Z7Ui+i9hPFtZedaa916psvFeXlsxm7OIyRqSpyXUuVmNHRSUBnJ2+RtOqx0mDQKg/RvH05y0Rr99kEwIH+AbPjp61+fXy1WbPDjJw3nAAAAAElFTkSuQmCC' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "42",
+            "7"
+        ],
+        [
+            "49",
+            "<a data-content='维拉诺瓦大学' href='https://www.forwardpathway.com/10356' target='_blank'>维拉诺瓦大学</a>",
+            "<a data-content='Villanova University' href='https://www.forwardpathway.com/10356' target='_blank'>Villanova University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAGFBMVEUAMWRHcEwAMWQAMWQAMGQAMWQAMGQAMWTbDigcAAAACHRSTlNRAGJ4PicTkWnkmREAAAFJSURBVBgZBcE9d6JAAIbRN8AmrY/C1AMS07Kg0vJhrBmNbut4ott6Qox/P/cKAJLLBQAEAHH1CgACMG5SrDgCCMy1T+NyxVfrQDDLMh+HEbuiAME+fIL+iskyjyCcp3ABU1UOsZlbD/+c8ad548Xbl4Pksd4/0T9amfDhYF+W5Q8vYyuiHIb76TS2TPNWJnPs8lfiQ+RNv9X/8e/kPh39QHxP6lHnRzprmvf82TRrU9806dzMyg8MWhN8aPpNkinnZIMF56VmxZaTlaysT7qb4u1LyiBJzoztH00quzp8ZFGQH4aiWolS1gZLRTcFNmxFo0jhshuqJm86JwK7Ud0ECm0UZE4ktT30Q6TNoaufEfRVerZSbsrKI9i9LczxeHRJVXoEszLzALvsGwTJtl984t7LbQsCMEPd3QsPIAA+wyZfASAAMHAF4BdSAkiBHuAbMQAAAABJRU5ErkJggg==' />",
+            "<a data-content='宾夕法尼亚州' href='https://www.forwardpathway.com/21492' target='_blank'>宾夕法尼亚州</a>",
+            "46",
+            "3"
+        ],
+        [
+            "49",
+            "<a data-content='德克萨斯大学奥斯汀分校' href='https://www.forwardpathway.com/10359' target='_blank'>德克萨斯大学奥斯汀分校</a>",
+            "<a data-content='The University of Texas at Austin' href='https://www.forwardpathway.com/10359' target='_blank'>The University of Texas at Austin</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAMFBMVEVHcEzBVADAVADBVgC/VADBVQDAVQDAVADAVQDAVQDJWgDy3crGZR3luZX++/nYk17rGECrAAAACXRSTlMAFj7slNq2dVjLLqgBAAAA90lEQVQY023PMUsDQRAF4LdyeO2dhb2LBCzNYqHV1em0CCSdB2lSXW0VsPLKQAhvVARjhNl/kJ8gYvr7Keksbj034nQf8x7MAEidc33cXzhXAQASr/4VtRffOlVyjpqUsFdKbNPT5QmOBlJmCIE5gFoKAIC1PV1aawdSWguYEX9nkcGMqSSVJHXdmSSFrS/JDz6RrvXqVJ8bfjZSXq0zmMkw0ccNt40Uk2EG5HnnPA/3BAP/Og2ugg/0ZcPtTmbBZswdv7gK7wF3JMm3H+JYScptZzNVynsXB9IRFxWiOZNz7Ps6pnmQm6iO5E//UOmL2F737Zxr/Q30BH42sWAyZAAAAABJRU5ErkJggg==' />",
+            "<a data-content='德克萨斯州' href='https://www.forwardpathway.com/24203' target='_blank'>德克萨斯州</a>",
+            "56",
+            "-7"
+        ],
+        [
+            "49",
+            "<a data-content='威斯康星大学麦迪逊分校' href='https://www.forwardpathway.com/9685' target='_blank'>威斯康星大学麦迪逊分校</a>",
+            "<a data-content='University of Wisconsin-Madison' href='https://www.forwardpathway.com/9685' target='_blank'>University of Wisconsin-Madison</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAmVBMVEVHcEwXEQwnHxhAMSZcTDt9bFSXhGiFc1dmVUGTgWSeiWmZhGSpk3Gtl3SNel6ql3/WAzS8pX+0n3vQACPFtpfEr4bMwqWxBCrYH0vxpbrn0qOjjWyfGja6qYzs4r3cM1zpc5L0vczh1rilAiCbPUiWhGvVwJr51+H//P1+blfjSW7maITskqnWza/v68j75+2RIC+lamjnWH0RetS8AAAAEHRSTlMAFCo/UGd/k6Sqvdni/f3+i7N3+QAAAZRJREFUeNp1k8lywjAQRAFjEgfL2mVt3vC+YZL//7iIqhxsQ+agy6tp9Whah8O6vDD0Dv/W+Yrx9fyenfwg4pjzKLic3nSGGHPCMeCYhC8KHsDY9JwYHhkMyM7B8QtwHfUc1KyPNDbhcYN9DLCue8gY7GuHib/BAW4axmo4z7BmvGnA10Y75DqFjzi2No4fMNVko34GLBUW/ZUVaQLW5n3S3L+pI5l0B/2+N2B9+QUzYXOV0XykUuVWJOSyxolIyrGTVE0UFT9lInb4JmK5ZLQoHJaxuO0xi1GR03ZBmUIx22I/mUVMlZJLJ8eJxmKGa2tnImZLx2Io2mEaqb0JuB7sBFla0aydcjU5/9WdwdPm1dhz7nb5yZfiOXey3UnAnDequmzoFHXOkmAbBvxUzzspu5xWKd9tzO0kheXQItQOJUzJbt+HD05EJRVCSlYM4I99EAHRzGYIScu0AS9hdO0alAiVQJOXZne7y7g2j4fRmFyPr0n2Qpc3zjkg73/KkwNj3qT8z15gCKiD07+fzPv83Ar/ApDfKRO9Q5I3AAAAAElFTkSuQmCC' />",
+            "<a data-content='威斯康星州' href='https://www.forwardpathway.com/24590' target='_blank'>威斯康星州</a>",
+            "46",
+            "3"
+        ],
+        [
+            "53",
+            "<a data-content='迈阿密大学' href='https://www.forwardpathway.com/10314' target='_blank'>迈阿密大学</a>",
+            "<a data-content='University of Miami' href='https://www.forwardpathway.com/10314' target='_blank'>University of Miami</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAXVBMVEVHcEz+/v7////3pW3///9jjXf////+//+Xuav7xKD96dzl7ur+///92br70LWtx73G2NGxz8d5oI75tIQBTiv0dBoARB/2awv8dBf/qGpWjnb0bxIsakr/jT1AfmF88Pu7AAAAFHRSTlMASxn9Q/1OYe3tqpky+tjVrff4+GxSp1EAAACiSURBVDjL5ZLJDsIwDAVNmpC9axaHNPz/Z6K6CBW4carEHN9oTjbAeeEX4sqOI7vuKwffEV4etVSCmEBnorzrWyIUaIwxxm8dNv5d11/rTHUzR21X0klBj7svhr9ubPc4hQGkbphrrbktvTHGjuMwb21KYVUSwBldSkPMGRH9tIkUwnoXyrrnb1jT93pZus5PQsyzUsNoP/6HOccJ5xiD8/MACHwY+psHNrgAAAAASUVORK5CYII=' />",
+            "<a data-content='佛罗里达州' href='https://www.forwardpathway.com/24028' target='_blank'>佛罗里达州</a>",
+            "46",
+            "7"
+        ],
+        [
+            "53",
+            "<a data-content='雪城大学' href='https://www.forwardpathway.com/10361' target='_blank'>雪城大学</a>",
+            "<a data-content='Syracuse University' href='https://www.forwardpathway.com/10361' target='_blank'>Syracuse University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAKlBMVEVHcEwAAFOENCJtMCYAD0QAB0kQGTtUKiwJFj41ITT/UQnSSBSsQBr1UAwwr0hzAAAACnRSTlMAJe/wTzl+43C687gq7AAAALJJREFUGNNjYGBgYCk2BgHzAAYIcF4FBmtNIFwWKwh/1WUHZGkgACtgrILzlwuA+Fpw/iIYf7WSktIuJP6a1NCIU8h8BwZWND6LzZkzx5H4DC5AwADjT0tL6+iAOA/EX7sbBCbC+RCwUwAsMBvGXw1RILkLrgCiYTaKe4EKToNMuwXnM3R0pKVlwtwHdQjCvTVnzhxuYGBBd/8pPP5FDw+U8EILT/TwxogPeHyVQuMPOT4BRaqo3J/wCS0AAAAASUVORK5CYII=' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "61",
+            "-8"
+        ],
+        [
+            "53",
+            "<a data-content='理海大学' href='https://www.forwardpathway.com/9318' target='_blank'>理海大学</a>",
+            "<a data-content='Lehigh University' href='https://www.forwardpathway.com/9318' target='_blank'>Lehigh University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAkFBMVEVHcExKJAR7VR5SKwVOJwTQpzZNJwVGIQRLJQROJwNNJwOBZEaQeGFHIQJMJwWKZCCcdyLBmSz///9ULAdOJwWzo5WnfiXetT1FHwL70ka0iyvrwkHCmDCWbyJhOQx1TRV6UhX/5E5qQxXMAA2JYBj79va5rqamkn+ciHnq3dvX0MjrlJ3hX23XJjrxtLs6FAB3GJxjAAAAEnRSTlMAjKIQt/6seoUdXvv6mDe0qNcBTUwgAAABkUlEQVQoz3XRi3KiMBSA4QQ8BAGrNSF3CCBgobZ9/7fbgLsKxf2HYTLzTTIngBBCYYTjTTgK0b09IbtNBO8fvKP3WNOwv8td/OSIsikpeSHvyy1L6hhY6XvFshGiFEALzan8xQ2nP9rqylrQ2pSUN9GSmTaVdlxxbahtWsPliiUVQhU/ouCaAQhgbMWVdJqb0pWNc4bbVq44MNyJtqrKoigrVyiAaskn0GAFa1Vdq5ZCVXKzOty2TJaVqpV/Kka1hmDJJedt6SwoBdZR/+1YRJ6/5Ai2zcaxvxbFtR/HrAUIFnyqRZqffX0/vfPU1McHh+So4MNz9z0M353nq1ABQf8i2Mz8efn6unx6/hAGPzkh7+LOvpnNO04evI8DOx9+u1xu8+EQHPZosT29TqN1t0k9H+PnZj9cTLJ58q6bJ8/IIVwweotxmvfDeRzPQ5+n+PCGViUkyNOmH4e+yfIAJwhtXAieplyIgJDf6r8NOama81qdXujsganraW+IXkVwDEAwQf8pwYRsp1rc74DXN/oDLawsMgZ8ouMAAAAASUVORK5CYII=' />",
+            "<a data-content='宾夕法尼亚州' href='https://www.forwardpathway.com/21492' target='_blank'>宾夕法尼亚州</a>",
+            "46",
+            "7"
+        ],
+        [
+            "56",
+            "<a data-content='罗格斯大学' href='https://www.forwardpathway.com/10449' target='_blank'>罗格斯大学</a>",
+            "<a data-content='Rutgers University-New Brunswick' href='https://www.forwardpathway.com/10449' target='_blank'>Rutgers University-New Brunswick</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAMFBMVEVHcEwDGxZbEh4BHREAHRNrEB86FRsTGRYbGBgDHBTRBynfBSqKDiPZBimnDCW5CicsvtSdAAAACnRSTlMAWO4gPPrThqZtiPYNLAAAAP5JREFUGNNjYEADgnDgAObrnIGBsAkgvvZuKNi764QBkK+7Cg72JYDkbwFZq3fv3QskjwP5SWdXrVr7SEkpDih+CajBBKhh9UljY4/Tq1btEWBgYAbxjwAVZt1ada8Ayj8I5PffWnUfmY8kvxak/y1CP9D8IKD5a68ZQPir1t69C7L/JAOUDwF7GmD827tBrgxngPGfhoJcqQLjrz7u0rdr1dpvcP4RBrO1QP0FDHD3MEZDNYDtB7oPpgHmXrCGCTD/GjCYx4I0GEPDQ5ElKQpIf1KDhtdBlmgQvXYTJDxBfLCTL0HD+yFLNJjeBI2PQJYYMH0IGl/CzNBIQ49OAMqhwcPpmF+yAAAAAElFTkSuQmCC' />",
+            "<a data-content='新泽西州' href='https://www.forwardpathway.com/21490' target='_blank'>新泽西州</a>",
+            "69",
+            "-13"
+        ],
+        [
+            "56",
+            "<a data-content='俄亥俄州立大学' href='https://www.forwardpathway.com/9778' target='_blank'>俄亥俄州立大学</a>",
+            "<a data-content='Ohio State University-Main Campus' href='https://www.forwardpathway.com/9778' target='_blank'>Ohio State University-Main Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAmVBMVEVHcEz////////+/v7+/v7////+/v7+/v79/v3+/v7+/v71+vr6+/v9/f3O0dLu7+/+/v69vr709fbj5ufg6+zc4OESExMnKCg3OTjLAS5KS0vODDpWWFfXJUtlZmZvcXHfQmN6fHyCg4OKi4zncYmhoaLqi56trK3rmqq2uLjUsrnCw8TtuMLK0NHT19jtzdTL3d3u8PH9/v7pJgxSAAAAFnRSTlMADCVHV2FqbXCGk6mvxcfIy9DQ2P7+Cy8WWQAAAc9JREFUeNpt0+tyqjAUBWCs9rQqFW1zIycmBIRAMYHw/g/XnSDVGbt+OfPNJpnsZZL8Zr295S35IxuEUQz2u7/UDteYYcS7Zx2H4v+c65O/gp7zWfMnXzSHLL761dVn1PzctG1b5NHRy50z1AQdRoRGHLxA+M5Jhi55uJLrjLP4nOcFfuCXz8CF9xUhwvtL5PXyWrsvi6/NYGovZE10ZYam9Q7v13C7dYqww53RNSWV0oZIIiQzXQdvmG2SD++Q0UpwKaRSympMey6YJLxz/ph89FRUUgMCSzlNlvai4pgqSassyThnpSpnLgkzDqY5MC6pOCUHbnhFqYrsNaWBCQPWYsqAa16RmeHThoaPlzDtNJ+OkUs4PXJVG7ac7WB6YS25JsRIBcx6HqdL2t9Z2bqfRNlR7IbaCGA48hRZ8860RTFgTRnD6FJcvj2Ds+0hsjG+gUUPoyuVtaiAN/e9V7erMWzHS9jivND4E/foxobhyV5DHYpQxLDavLHOy5k1z3ZojD5XDRS7aapJd0y+KDGb5Oa3LoKmu+2+hptvu9M/WPo2+pwGj2ko4lt/gIXPrQEf2pDmCrNzTV/Te9+2y58I4f1S4tVD2d/TfUz6UPEftN1Q+QvlTskAAAAASUVORK5CYII=' />",
+            "<a data-content='俄亥俄州' href='https://www.forwardpathway.com/24202' target='_blank'>俄亥俄州</a>",
+            "54",
+            "2"
+        ],
+        [
+            "56",
+            "<a data-content='普渡大学西拉法叶分校' href='https://www.forwardpathway.com/10360' target='_blank'>普渡大学西拉法叶分校</a>",
+            "<a data-content='Purdue University-Main Campus' href='https://www.forwardpathway.com/10360' target='_blank'>Purdue University-Main Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAKlBMVEX+/v7+/v7+/v7///9rbGy3uLjU1NSDhISWl5fw8PCpqanh4eHFxcVJSkon9ZBMAAAAA3RSTlPm5NIF1u3cAAABPUlEQVQY03XRv07CUBQG8AafwDfgESRfekOFzUIBZQJFG5yufyJxg0JAnQTaRLeGaKkbVQbHomLihqIxcRIj0fgu3rYiTYzfcvNLzsm951wuyPkT4Gbgz9w/PqOme4Y8b0rV1HDq/npqRxkvTsyLqwZI7rzjWXh+053ajdqPxwMIGcCUbNenKvrqwk0C94eus8VCfWk/10TrwXXJHFHhmBpGRHIc0cLpIkhhFMcBZRakqBYHv7alo9th5vOELoPfEyu0P2COxoBbYn1ey/pLxulPAd3KhZJtwnJMZHryZePpTouUnHohrShqDIWsTVZ05/5d1S73qu12kk+47wl30EC9wQaKuyYZZvIB1Kk3v8yModGTdc/zR8x5S36d7OvxHWS7lrQnFiwxES3T6X5xdQnbt+/fhP78T3DWn8A3xECFjhkAVQ0AAAAASUVORK5CYII=' />",
+            "<a data-content='印第安纳州' href='https://www.forwardpathway.com/24197' target='_blank'>印第安纳州</a>",
+            "56",
+            "0"
+        ],
+        [
+            "59",
+            "<a data-content='伍斯特理工学院' href='https://www.forwardpathway.com/9936' target='_blank'>伍斯特理工学院</a>",
+            "<a data-content='Worcester Polytechnic Institute' href='https://www.forwardpathway.com/9936' target='_blank'>Worcester Polytechnic Institute</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAflBMVEVHcEyz//+44+C6zc+5vcG9oKu+kJ2+h5bYP166x8nVL1C7v8LSIUPFX3a7zc7NACbfXnjcUWzGbYHkfJG7qbDKT2nMEDbgbIPHPFmSLT/sorDmjJ7GfI7S19mvBiRnXmCtvL1/gYHg5eaKFCmip6h9OkfKrbjzxc+4LUmPmZlXEbBlAAAACHRSTlMAFlmLmsjg9hm/QRQAAAIiSURBVHjadVPZlpswDCVAQJb33TGEhOzz/z9YkU7PTKenerDBkmzp3qum+WO7tt8P4zjs+3bX/LRdN0hAMGCFlUP3I6AdokCcrPeTMQLj0H73dk4YP4FJaG0GXwFd9+Xtpc2TByiSrAD4qYrYf3n15AXIwJlijAcpbDUifua3TmuB5aEY/23qUdBncO/3dwN41FF98OPlyN/LB4vgQQxb/V2Ep4lqPfHAT+fz6Xbjp5VH1Hq7fjdYDxjY8XgLFxZu/BI+zoqFlBApvZVYjVNcHY/qcrndLpftiyuJHmXb9HayIqhRzs65+fF4bzKoIAiIvtkjQGRq1svhcLim5UrbomfFyzThvqG6jWRs1tfzma3L8sHOt6seGRVvYGhGtDAzNurrelpPy3Ja1/WqA2PSTjA2o52MYyyUF916eNF6PbxKYFSbJfcAhA/hFQVxCTkLOhWRcRbRm6HZgzWRcyZ1NtrUmradGuUFLJXWg8mECuHgvU74zNrntP0LY6mxVsITKJpFWxPWp00V5AaLyJ5g2RjJZQsn6A/3+yHXQswG6vfNSVdgMoVqGbPbKMmGmuZFeHgzTuk5E3BMuXRn57uYifgossU3oSQHUZ9YglLzcr8vo1KhGG+M+5RjJ6GiTi6ox4tEE2TSWCF2X2KjA9CpSEdSTBqEFq7/S8gCNFKngF5oSOK7kOn9fUxamDpV761Ocd/+M0QO0BL5YN0/Q/S/EfwF2sYwEBUB0DUAAAAASUVORK5CYII=' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "61",
+            "-2"
+        ],
+        [
+            "59",
+            "<a data-content='宾夕法尼亚州立大学' href='https://www.forwardpathway.com/9686' target='_blank'>宾夕法尼亚州立大学</a>",
+            "<a data-content='Pennsylvania State University-Main Campus' href='https://www.forwardpathway.com/9686' target='_blank'>Pennsylvania State University-Main Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAUVBMVEVHcEy3w9LBzdru9fd+kq/+///////T2+VheZ1vhabb5+zq7/P9/v7r7/OsussBKGIAH1sAFlUgP3P9/f5CW4gwTn9PaJGaq8ESMGiDl7O6xtWr8RU/AAAAD3RSTlMAnIZh1B0J/vb8Vfw0mIa34y6WAAABQklEQVQ4y81Sy24jMQxzZpzYzkwq6uHn/3/owt62SJACPS2wPNgHSiYtyrn/Arfreb/f7+f19s5d94uPsZuVEv1lv76Sm7dGSLUwAyTmt6eC3QtTJktckxADQPb7l+bFuPVqSLmraqjWQKByuf1lM6ejyixR1SOEMQoTIS9+y6jaAUg4aszSAKmLt825M3LVuqprxjLWM/c0BeLptlY0NBARYZ0tjRGbdQNkc56GJqZnINeQpEeQd1FUBfTKsx2VunFy0b7efgYXTTlycr5ooDeAjhCFvPsoP3cfVaa1MwXNWA3frWilJsL8mPtYziERjEkBUvoIlXiOxbmHHtP6GEWaSLYeVFWN8+fQH1MdMo4wajLJFmdAn5HMQI+QmSFr4ACYWb4DnevwCD0T84r6bR2mwv7wsZSfl+nXVVz8y/Xv8Qe0XR/XSMXIjQAAAABJRU5ErkJggg==' />",
+            "<a data-content='宾夕法尼亚州' href='https://www.forwardpathway.com/21492' target='_blank'>宾夕法尼亚州</a>",
+            "52",
+            "7"
+        ],
+        [
+            "59",
+            "<a data-content='南卫理公会大学' href='https://www.forwardpathway.com/10358' target='_blank'>南卫理公会大学</a>",
+            "<a data-content='Southern Methodist University' href='https://www.forwardpathway.com/10358' target='_blank'>Southern Methodist University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAP1BMVEVHcEzMFzLicYjPEzmoAADdWG7ULk3nf5jofpjXQ1jOFTbNAzHLACXmbovTIEbbQmLtkajgWXrxn7X2ztn3qb0yli87AAAAC3RSTlMAXsVUGJnn4v2LVJROmI8AAAFESURBVDjLhVMJjoMwDEwpKM76Nvn/W1dOYGlppR0J2fIwieOjlBPrc1tqrXXZnmu5Y23VjF3V2ay22w+P2lmQSIQIhaM+XtnWAQkJIeJwervYrSshkjJrfsPv26WVjDALEZEwIyLJqX/E+N+dCJNIL/Ux7l8rZ1gATxDM02rm32LEzJjZIiKNjVC0S8yICh2ggyKy4CF/WroorGAZFQ5QnjH7KZulmDTMsyRZGraRLKJtZeHphTkfcItxOfFSqg/aDXbeofdhzAfttdR5DrrusqvZMD4fqLXAoEne6Jla0sfhX2mvR2rf1bwcD/uqzofNstzU/leWWVQS8F13jxjmpSejJQTdwsLMhulwtmTK2fwNxmdDcxwk+IaQYxxymFQ+oNcw5igSvoBeR7GsbczvxSJE+1gDOiDc39fgvyU6VxBuK/gLAw0kxkmCkqYAAAAASUVORK5CYII=' />",
+            "<a data-content='德克萨斯州' href='https://www.forwardpathway.com/24203' target='_blank'>德克萨斯州</a>",
+            "61",
+            "-2"
+        ],
+        [
+            "59",
+            "<a data-content='华盛顿大学' href='https://www.forwardpathway.com/9779' target='_blank'>华盛顿大学</a>",
+            "<a data-content='University of Washington-Seattle Campus' href='https://www.forwardpathway.com/9779' target='_blank'>University of Washington-Seattle Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEwuAG8uAG8uAG4tAG4uAG8uAG4uAG4vAG4wAHGygdujAAAACXRSTlMAKfBXEoS92Z9lf5gEAAAA5UlEQVQYGaXBMWuDQACG4U88Q8ac7dIx10Jxc2nBTad0lEKGbE4B15DlNil0cIyi9v239chPyPPoUTYoVdlSdqWLW3XqXW4uzr0rY9UZT2c8DCJoYmhMBujoGX7zBPbm2C5HqYCdNjBK/SjpBWqlMMn4m6QDNCpgUcxV0hauOsGwS6glxTCqBfINuaQoY4qyAep02EkynjnmDE0xK+hZvviAt9OkoIBPnmBsRwUp/CxVxuz3Cg7ArBZoFGyBST1QK4iBmwogVxABV6WwlAqMh04b+NPdt3O5EudedVdZW8pY+6zH/QNTy2EF3P424AAAAABJRU5ErkJggg==' />",
+            "<a data-content='华盛顿州' href='https://www.forwardpathway.com/24580' target='_blank'>华盛顿州</a>",
+            "56",
+            "3"
+        ],
+        [
+            "63",
+            "<a data-content='康涅狄格大学' href='https://www.forwardpathway.com/9934' target='_blank'>康涅狄格大学</a>",
+            "<a data-content='University of Connecticut' href='https://www.forwardpathway.com/9934' target='_blank'>University of Connecticut</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAASFBMVEVHcEyFh5FydIApLUOWmJ6Nj5OJi5NqbXp8f4pydXsfJDwzN0sECCdSVWZdYG8VGTFJTF4+QlX6+vrd3d+Zm6OsrbTDxMgAAA7yc0dUAAAACnRSTlMA1uP/ckyi/f0jCTaOZAAAActJREFUOMttU9mS5DAIS1qd2AFz+uj//9Ot9OzRNTt6ohAYUxLb9onruq7tZ1zHuT9unM//S67nQ4IYjZjl8b3g2MWIvTApGOT78ck+C6wVqDYSK+yE8vxkTaUxEwEMhGiY/uWPu17JvM45Z3UyV8Yf/qpgRfOxei/S+xphLG71639nsBPLypxmZiNzqblTnF9PUyjHyswEgXpmLiEvXI53s2lgzppaEE5Fso7FEXi37whGmUAfr0aw1+hMo5IKPa7tUtRCcyF6VhOxmt1pTQ6CHtuhhohVCXN642gxFltd3gzy3J4Syt61xeowwNC7N+kCkZt2FvbeGSNLE22ak9G7ENjvbmJEH81GTiO0kcPa6M4a/twOhTJWV6p9DLIxeoX0FV5Iju0qEKeaq9GCFFVaeM0cIGK9tm1ndvI+rZVZS6mztja6IoD9VlNM4962vHip9Hhpz0Ec9+htux73cB6ZVQQkUjNnGOG3ZE8lIHjcWqhnZh9sypDzS++dTdGozJ6jZp+FWoPy/tuP187UWmvkpdYiuGNDPf759J1qTADxO6R6fPrY75Tce8vNf3PyddZoFCzu4Mbl/H4ox/mQYDCHPM7j5yN74/OCfgGToSDnRwhaVgAAAABJRU5ErkJggg==' />",
+            "<a data-content='康涅狄格州' href='https://www.forwardpathway.com/24030' target='_blank'>康涅狄格州</a>",
+            "56",
+            "7"
+        ],
+        [
+            "63",
+            "<a data-content='乔治华盛顿大学' href='https://www.forwardpathway.com/10357' target='_blank'>乔治华盛顿大学</a>",
+            "<a data-content='George Washington University' href='https://www.forwardpathway.com/10357' target='_blank'>George Washington University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAOVBMVEVHcEwAVoMAWIYAVoPVvJTQuJDSu5IxWnTHsYrGsYoAVoMATnsAV4UAVYEAVIDLtY7Mto4AXY7gx5vLvYGRAAAAEnRSTlMApeSI+MijBi1HbBnDSzC4lv60eJsJAAAA8ElEQVQYGbXBQVZbQQxFwSvJjoKkbnjsf7E0Pycmg8QnE6r4Vi9PcXt/4sbbjyfe+B+9qtZOupM/dHOs0SUoN74sH8iQ3A43trx5CAWEFM3RmxwVR2wgR4slFQ8hA7YC2PLGNHzZ8oaQbygZjIKHTNeiXQpytMC1OCqOBaagNPJseYNrAek6DJYmXW2qJQNGAWRVjQzaPWQsjamAkCeXkgEmaZEjeQNbMi4lA5Y0QEnDp5JsJ3TIgHYtoF3FpSSNjUsG5HhyhDaX3OY6ppqjik/bkt96r93J32Qmv+QF8kJmwuv9iVfut397v/PzKb7TB48bEQtseDY+AAAAAElFTkSuQmCC' />",
+            "<a data-content='华盛顿特区' href='https://www.forwardpathway.com/25251' target='_blank'>华盛顿特区</a>",
+            "56",
+            "7"
+        ],
+        [
+            "63",
+            "<a data-content='马里兰大学帕克分校' href='https://www.forwardpathway.com/9935' target='_blank'>马里兰大学帕克分校</a>",
+            "<a data-content='University of Maryland-College Park' href='https://www.forwardpathway.com/9935' target='_blank'>University of Maryland-College Park</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAABHVBMVEVHcEwhEQsbDwsjFQ4cEAwcEQ8VBQ4aDgwbDwsbDQwbDgwcDwsdAADfS1EbEAzqhoz///8jFgvDpgd8Yg0cDwzxrrP55Ej39Nr8/Pz/+vjozx6ldDSHcRHcrKrbP0C6qSjRtADzxsbvoqT729zgwyLHpyTevhGxlRTcMjnWEBfvlpv+/Pz0zs9UQg/zyMn9/f3NrhDqgIXHtBH94nn+/ufFpw/oyw83IifTBhHNAwz61QK0mAfzv8UJBQ/fvwQZDw+SeQrZLhD/5QFINQ/mbnI9FBDoen/vywGhiAY1Jw2Caw3tlpnUGyb99e5cShAoFw1vXBj/w8bx0c9UQgvcLjTxn5j0rwKvChT+5eeqclTqjmA3Mjy6MBLemAefln6J84nkAAAAOHRSTlMACjM4SiYFFyAQPlkC/i3+/nD+/mL9GQtlNkhg3msybP8p4qjtNKrFw2zDw8ZUxMe43Hj+TNBy/LDaU6EAAAJeSURBVBgZZcGFlhRHAAXQV92l7TK+hpOgCUSqvcdd1nD4/89gWM4skNyLW1wpy3BMKSTh+C+HmFTZDWFYFpNUcfxCmIzZ0vCkYAaxPG4pBz8waVHCCL5jRDUYxy0hbSKA9sOjo5OTuwSQHm45wqSeQuufx3G2yyf+b7+3AUgqcMOh1HDQ+3sxn80+Bs2L5dWTLmAxT2HP8YTkOIuHdZ1eflzqiT86bx6BMCo4ACE8hV483KXldPuv7/vLfDRyT6EsWwIwqUVax4usjOKoGI/eBRN3kr971iaGJ7AnFF5dluVgUW2KceI2V8nID4IO4OC71nGc7srLYjHcap0kq3zirl+2cdDbZGUVz4uoHCZaJ27QTJpBF98Qh+PscpoVw3kRDT4nWutVfnF1EXTAHcAwLZxt0rqIoyoavNHfrJqjYH0CkzGYFkXn4vX7cZzWdwZvtE6SpP/h/ZcHIUybQhGCTpD7btLf+zQex+PxNJ3P7zyHEAKAg24wmix1orV+WxWzbDidbjcRw0H7qesGfqK1flsVs0E0Lav6Mcetzrm7biZa635dzAZZnVXZEQ6UbL84X14lWif9dBYNFtVw8wcXVGGPywbF6T3f1df5qp+mWTqcL45bXFKbA1BWKD2c/nnu5+v8Q1pud9vswUOYtmIEe4I2Qo679/1r170eZFVdP2qBCaMhcMOwQSyO7v17+TrdHT/qgRgG5YrjBuGShkRwtLp/9cwWOGRIQwMHDjNtNKhUHI4C7Aak6eAnjMnQlsy2pK1ghpQzB7/wTFsiNGEbxBAGx/8IBiphUaE4Dr4CPc5WGarUJC4AAAAASUVORK5CYII=' />",
+            "<a data-content='马里兰州' href='https://www.forwardpathway.com/24379' target='_blank'>马里兰州</a>",
+            "61",
+            "2"
+        ],
+        [
+            "66",
+            "<a data-content='克拉克大学' href='https://www.forwardpathway.com/10012' target='_blank'>克拉克大学</a>",
+            "<a data-content='Clark University' href='https://www.forwardpathway.com/10012' target='_blank'>Clark University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAbFBMVEVHcEyiAADSJyfeYmLjamrhZWXdZGTeV1fhYGDZWlrRISHo5ub+///iTEzc3NzNCgrVNzfgQkLFwsPjWlrRz8/w8fHdLi71+PjESUl/fX6UlJWys7OlpaXkcHDog4PWpqbrlJTqrq6sfn6XamqJJTHqAAAACnRSTlMABxdagpSiw9/ysHx8HgAAAgtJREFUeNplU9lyqzAMpSE0IFneN2xDSPr//3hlmnY6uXoAzxzpaDsahh+7jNNtWZb5No2X4d0u19mYSDFGY2i+vjmMs4kONB1Ob91tHv+AH5OLSh0GQDtNZtfOuOnjF/00tBkFBHnJWYPWh1bu8wefHMBjg3xHwYb3rAkc0fTK69xOWj+LFKfJ8gTz2MGd+S+zcg8Cn3xLHU3FBp+d0Wbu9V+pZ7VBlrX4cP5ksBAPba49GI4d7gLL2urKVttaUNzBQQ8fSWmdOWGxqXaPmmxZpch0GDMOE3cMD1ksIrZVyrXxwxb5AM45DTfanbYWhUQsJYRWEKUI1urtoNswgzYZRWJUrh7Rrxwtk8AcIc7DwuSLSF6y2YBcdH/5JLIiWoaFG1yE98jJA6aQ2MWil2Jxu16GOfLIkg2hhuorVm89P4NNWSkmvwFXbr3AGixaz6hkWHgLbDduzOzqyaXUxOQYpAyJ+0hP5Vyc+lhAZV6UF1b2shqH8uoys9LYNwKbup8wU/NIJI9A3JXboO/kSrQbwOSFCL3wlIRMCKwZup4LhW0Dza352qxt1aP0LBn4XijLAWgD9dVqa+va+PcF4HblXnKcSJstqi4mZmYxKZ6IctOvFAk2BxFOKYIiB87Q58dfIYPewPBXbaR3Hf8I+TwDioxo2BXX8XYG30dEJkYmiPH/I3qd4Px+gv8Ay8UwNPFB0zoAAAAASUVORK5CYII=' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "81",
+            "-15"
+        ],
+        [
+            "66",
+            "<a data-content='克莱姆森大学' href='https://www.forwardpathway.com/10446' target='_blank'>克莱姆森大学</a>",
+            "<a data-content='Clemson University' href='https://www.forwardpathway.com/10446' target='_blank'>Clemson University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAIVBMVEVHcEz1ZAD2ZgD0YwD1ZQD1ZQD1ZQD1ZQD1ZQD2ZgD+agDjv8ITAAAACXRSTlMAM/Eb2UuSunCrdpWOAAABKklEQVQYGU3BTS8DURiG4ac5YWY5SrEVqqarEcKaShezQoTUqqSJsJL4CFYshB+g4j7Lpq2851fqB9Hr0i83q0muVUk0YSH4Jf0r5PiafrkDRYa/lpwG3PnH8yH4pju+zyQdBdqn8LHRqoYdKQ7wdQnfkUFbKhqs5dBvAD3pCShfQf8ROJNy8MunFh4AS6QcfDPerW8ZrGbSFVii9SwyfE3SZujUVbp4iA3flDS1+zJ7kobO3Xm6mpUkbczveaBfWHxvVV5VeKsaA2XNp4G+tgNDfilODb7VYKy9aUBbRcbKDcDfqMHY2iHQzRQZI93I8GUpNkY+pw3/LLknRrpn1fClgaIx5GtzlX0NTOXGUM8lGtmqAuZr+jMX4LaT6I87Tldad5pQmpnR2A/kSJJ9Di2mMwAAAABJRU5ErkJggg==' />",
+            "<a data-content='南卡罗来纳州' href='https://www.forwardpathway.com/24952' target='_blank'>南卡罗来纳州</a>",
+            "67",
+            "-1"
+        ],
+        [
+            "66",
+            "<a data-content='德州农工大学' href='https://www.forwardpathway.com/10013' target='_blank'>德州农工大学</a>",
+            "<a data-content='Texas A & M University-College Station' href='https://www.forwardpathway.com/10013' target='_blank'>Texas A & M University-College Station</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAP1BMVEVHcExNAABQBQVLAABFAACKVFRPAgJPAABBAABDAABOAABMAABNAABNAABNAABTAQFHAADHr6+hcXF0NDTAoqLeYfKyAAAAD3RSTlMA17tvLvwO/lhDxqromoVsT3PqAAABHklEQVQ4y63T0XKEIAwF0ACRSxC5uu7/f2sn6qqd7valzYMyHCEhgyJ/DStvQw+O6+NnDJwOHtfncsZrOAwnYz7jwWMwLCcTQI01BszLEGKNFd+ZIecsxdkki7Z5PTk6++BgkdzIdbodzL6xlFLS62BqZnpxNts+eb1H8ra5Gsm05SR8toMcr9XayJDFANZ9luy33J1g8oJhe+UVLV+cCNYCAF6RoWndsp0cA5o/fPVEhLalOXkqJGxjbYB31W485sAxN5/rrGY2Md5ZOlUaVEbv99b3qLYfLLAV7bmDUUBCJQeSO6sR7JKleltKSiWLlFSK7JxT2vrtcrtyat05mb67kDkQzrMX+YGxYn1+Zs7zuvyyGviw+fU3mPxTfAFIqhSIRTOLEAAAAABJRU5ErkJggg==' />",
+            "<a data-content='德克萨斯州' href='https://www.forwardpathway.com/24203' target='_blank'>德克萨斯州</a>",
+            "69",
+            "-3"
+        ],
+        [
+            "66",
+            "<a data-content='杨百翰大学' href='https://www.forwardpathway.com/10448' target='_blank'>杨百翰大学</a>",
+            "<a data-content='Brigham Young University-Provo' href='https://www.forwardpathway.com/10448' target='_blank'>Brigham Young University-Provo</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAUVBMVEVHcEz//6///+f//+3//uf8+OXn5dzP0dDW2NWwuMS8w87///4/WH/8/PcIKFolQW4WNGMBHVEyTXdPZon59OlmeJbk5uqgqbl9i6LT1dSIlqwWiSxfAAAAC3RSTlMADzlPbY28yd78/uEaXJAAAAHNSURBVHjaZVOJkqQwCHW8TQhHMJf//6FL2q7pdpYylobrAY9h+JVxXtZtW5d5HP6XaT2qRqKo9Vjnn6dyXAsgMsfIjBKv9RFh3lU4qhKoAhMJuPlLezArAJmjICFAZCzLR4uIQMKQrisBo32wlLf/uDMnEkztDCZnS2YMhO7Ov6poYjqCf0twlhworh3/VCQCcgtf0qJolKuHX8FM0Xyzc66543DZh8ZoTdh/hvGwRJKCD2fOuZ982k81rFimYa5mh83780u8b0yV0zIsisBw3ph+X/5UVoZ1WCMDp5BV9XKQHTg9ghZ/oRJtw0akUn3GpJytnJSlBLx8QYi3OqKpOSnlLBRM7V9qIt4sOCVM3TtJ8ww+2IU4C26hNoNGhuHMV63Oh6t4n2uyL7XxGjQrLEEvrIMO9/GvwlIvzNoSWWp41h0uEe5tseRi43XdKeSWc7idMUpv6mskLNR64N703M3AyHOPpM/EsFL3v3OHZlMiifuLkKNjAuNIvekQWmWJKeIxvclUBCuwsNZSqvKLLPIh21Ksxs4fRDE661PbyWg4ya4BySZhP8fy3JErmmPsNdhT9+m5Jj/zWpLNyFxT2f8uUTcY+wb2HZw+yn+OUSpthC7YoAAAAABJRU5ErkJggg==' />",
+            "<a data-content='犹他州' href='https://www.forwardpathway.com/24956' target='_blank'>犹他州</a>",
+            "61",
+            "5"
+        ],
+        [
+            "70",
+            "<a data-content='加州大学圣克鲁兹分校' href='https://www.forwardpathway.com/10255' target='_blank'>加州大学圣克鲁兹分校</a>",
+            "<a data-content='University of California-Santa Cruz' href='https://www.forwardpathway.com/10255' target='_blank'>University of California-Santa Cruz</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAOVBMVEVHcEwAABgKP4gyXpxFbaZyk76GpskIQo1Vg7R1m8KNrM2euNSpwdm0yd7B0uTN2+rb5fDn7/fz+P12bRGvAAAAB3RSTlMAC0Vnga/Py/IMqAAAAahJREFUeNptk8tu3FAMQ0lKtvP6/z/NJGNfkV1MpmjRaqkDUBIhNp5FigSQOHk2+wlVR4OTRtZ9nL+w+k05Kyf7wrbN1/IfuF/2WXYt5B4Mjo/ze/3G/S6fjO8AFsA92etz/eB+q29v3s6HYO0ylt4/F9CAXnQJKrx8G4COmGu6Xz+NBnvz4hY9zzERVu5HX2noNbOBXmSgJPCg6q68zjRLk2wxkZKBAIq4z9rKzQMpOUTQGDRMIIiPHKtVHlGIHsMZPiyupVZTZ1QJkScJEAiXDzYh0GSIAEAYJKZLBhvBsDl8ECBIogish2s76fJvcZNVVgYbGixzakKCT1/sNiSgE9YIQUjkcbZMK4udTubiMdw9FAEqmaisjUl7RBl2EP/sRyA4cSx37h84Ka5o8wp0D0EFad7TmSEZlhErTA2J8nTNpOGvj20VqQCRPJton9x5MxpZV6EDM+VBiBHY1rWCBvz1tmNKVwoV2oi8ZX354dq6vVWRUsKATEGZ2/MVsW4vGxazRqEPjHD98chYt34tAJF7BPjvGMDX1F7dQNrzT4iQmfWfCP4Cip9CgSlgyngAAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "81",
+            "-11"
+        ],
+        [
+            "70",
+            "<a data-content='佛罗里达州立大学' href='https://www.forwardpathway.com/10190' target='_blank'>佛罗里达州立大学</a>",
+            "<a data-content='Florida State University' href='https://www.forwardpathway.com/10190' target='_blank'>Florida State University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAATlBMVEVHcEwhIhkgIyAdIh4iIyAoIyInIyMqIyMnIyIxJCUnIyJcKDNVIi1qKThcIzBxIDVrLDp+K0BoQkJ0Vk2BbV2TfG2ikn2mm5fDxMLe4+NuDj8sAAAADnRSTlMADRosOUpcc4CMprbD9vBCRGQAAAGySURBVHjaVZPRblxLCAQL6Dlr//+3Rlc7w9B5sJ2b8EhJSEhV4mciKwKw7/hnqR+oStuGTM1t/4Nr5d0eMfW2tKr7fxxa865ZDJmQh/VE+xvHUo9R54AdEe5ccfyFpXNe652pDLy6nTpebBBo9WFnPYvAwb37OtyaRqRuf95dL03NrBlV7rN8c82IynfOvD7DVbPyVh0VnTqvGkXdqOEJkLOcMsQzXF+1Mnd6PgTYY48N6PVr6Vap7IlaMLLL1EROoEWPUjFRV+GB9CQ3w0NG7WJCeX2do4/ewQnOM+fR6Qy1U6DaoRUDYCCYWFzvqRBMGDFalw+o4dMTelNpZLhABFwKGCJhCLcsZ5fv/rpyimtOQl9HheUcc70BsRdn0UDcaHR1FVF9HhgICCDhHOnG1YymfVIkXwY5obf6Lo98V1e9o2KCn9+89+vVdSxure558+ibgf97s3P5IqafbHjPS5GQdr8PuHIPgo7lA6elDDzdBpa6v1zrWLHBxyYcDfCoz7epPl65hyrCkzT55PkjMj5eH7fjpm92lMq7/66kp/Ty2IUyfO7829hMZ2UCvn8l+BsQXEJ8COYPLQAAAABJRU5ErkJggg==' />",
+            "<a data-content='佛罗里达州' href='https://www.forwardpathway.com/24028' target='_blank'>佛罗里达州</a>",
+            "81",
+            "-11"
+        ],
+        [
+            "70",
+            "<a data-content='马萨诸塞大学安姆斯特分校' href='https://www.forwardpathway.com/10014' target='_blank'>马萨诸塞大学安姆斯特分校</a>",
+            "<a data-content='University of Massachusetts-Amherst' href='https://www.forwardpathway.com/10014' target='_blank'>University of Massachusetts-Amherst</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAw1BMVEVHcEz////////////+/v79/v7+/v78/v73+Pjc4N/r7ezBvr7w+fivrq2dnZyUlZKli42EhYKenpyBXmOurKq8t7eAgn9FGCBUJy+2oqbT2tnq6OiRCR6ZGCzHdYKWm5hxJTFucW2meH+hgoffyczr1tlzEB+1Y2+bcHWzhYxWFx9yQkiJZ2yOj42qkpXSoqnIv8CIWV/cu8DOy8xmJTBfWleLS1P2+/tBPTphNTuzUWCMIjJMT0owBgqiLkAsLinHj5dR4jxCAAAAF3RSTlMAChcmNEJJU2CDjrO9xcbk5ejr7/j+/huuLMQAAAH7SURBVHjarZNpc5swEIaJ7cTY1LGdIiQkwIj7vm9f+f+/qoKYNO3kS2f6fNjZ0Tu7kvbguP/B0+I7nmZ5+3Z8sN/P3hGsZ3l3iU8T8eX+8E4XafVQl8e40CZsSu3JMex4v3jIL1QcFIYTZN3JnRwoU2HOzdPspqqqDsPsng3KuUKoz+hmlgWaKkxGMAKddVPPCMEQUH66l1+v95KtqYqDYCJdCkXVEYrK08fLtolhhp1oObqOIKgllofltuLudfr2zrBt40o937ZzhO+iq6hj6g78WLHwxcFvMeg7g5QghBHMz46DgrDuE9Pcc9xKbEiJ85BgnF+bwvIDZiy/KbLM+MmiBZ+UJLExKcNriokMLezJvlV6wDiMyVMss1CZANQT30oqkg3DQMDghqwuW6/ATdp6WptcDeLaSeADTFxmsCdwCzFvsz4qgpQYgYVLYuru7R277jnF0YZ79opWjuoqsLGctmZDmLVHYxHZ47mNZ5h5dIlC3/R8E6HEM5LEbFzTNHNxyW3Fw+EQS4XDegQNUWxGB0UdOxWe2cMZq+NJGyupu5p2+2gMXf8epSUdK6mfVdZo1lUEZelzEkZZOmlOVekTFYJ5Vm+/jumOWj38JC/rt+XXMeYlWsozANQx/+eYb6VaiqWJWKrf+L/X4EV4ndltlt/tycw/7NYvYgxNbDK3ZeQAAAAASUVORK5CYII=' />",
+            "<a data-content='马萨诸塞州' href='https://www.forwardpathway.com/21489' target='_blank'>马萨诸塞州</a>",
+            "75",
+            "-5"
+        ],
+        [
+            "70",
+            "<a data-content='史蒂文斯理工学院' href='https://www.forwardpathway.com/10451' target='_blank'>史蒂文斯理工学院</a>",
+            "<a data-content='Stevens Institute of Technology' href='https://www.forwardpathway.com/10451' target='_blank'>Stevens Institute of Technology</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAllBMVEVHcEyYFS6iIDOeITWiFy61r7KjFi2jGTDYvcOiFy+iFzCjGjHCpqqjFS2jGTGpq6ykHDSmhoukGDCsp6m+bXukFzDGvcCqlZqkFC2xO0/VmaOnITjDbXu3Slyrr6+nHza+XG2kFy+sKkDLe4mur6/oxsv35+q3RlnVk57eqrKkFi+tGjOuL0XCWmvLbn62u7vrxcv++/u/YtC2AAAAK3RSTlMACRIdJCUqMjc5P0ZMUl1qbG59g4uNjpylrLW8wMnQ1t/q7vL09Pb6/f3+e5VftAAAAg1JREFUeNp1k+t2qyAQhbmFCSDI8dLE2GhtrRoRNe//coeYrJP2dHX+OR8zDHu2CH2L/Q79HoRkGSG/MAacnk6UA/95goDgoffHxx4hIf8/wIQUIOHV+1cQIJSgXylwUFZD1vfDnIE2kkr+pFyEFMfqbf4YhkuEuVZK/ONUSK25LXvv58FfliqmWivJHlMJoW1eezf109R1XdUuVWqVEPf5OEidu3c/9X6aLsP6FsXVkob+/F4MhuXNvlunyzoMfvB1ki4pN1LeypnSBpk6+lz9er126zr492xJkQHBtkdpgbDKXi+heL1euut1OAQstACEMGDNkNUI76KX7NS9fXZr9xIwNQpwuFpqgnJnzF0oso/S0605MSxoS4TSOOC8acpEMXw/k8YIG4CAOd1w0jjnxqYuj1ZtfbDWYqs2ZMPjGGTzs3djfQiuIEaGahz0pg/s57n38+iaQ7VDzIgwGgIWHhZw7cZHuGO8xEiaTTYGYAKuk2Mgcz+6MY/bdoeM3mYgkmlgpWvyMJ3vXW1eljZCMiyF3FcCluBkdKUNDY5/qqWKELXw2PhNGIORql2TJDZtlzA3sRIEftrBhicenSurpY1DxkoJ9GlEwqxAyDRTW92sajkS7IvZwud7oTCUB4p1URLE2FerUnYMevVFUZR9P3vL6HejY32+5W+izv1Z459/kbDFua7PRSKeub+oDDQFzh1x/gAAAABJRU5ErkJggg==' />",
+            "<a data-content='新泽西州' href='https://www.forwardpathway.com/21490' target='_blank'>新泽西州</a>",
+            "69",
+            "1"
+        ],
+        [
+            "70",
+            "<a data-content='福特汉姆大学' href='https://www.forwardpathway.com/9781' target='_blank'>福特汉姆大学</a>",
+            "<a data-content='Fordham University' href='https://www.forwardpathway.com/9781' target='_blank'>Fordham University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEyaAACbAACaAACZAACZAACaAACaAACaAACfAAASkPU3AAAACXRSTlMAEChTdqTG6P6UjHAYAAAAnElEQVR42pXRMQ7CMAwFUIPKTpDYISfgCAy9QcVNUM0NGu9IrW+L7SSN6YDEX9LXWpX1A9Bhyw0AOm4xL6mE6F5M+QWbWZ8kS8rfUTyOiK/s3YnSHCRnNsNerOeBefVRz76/eNfUee8YYwjNaZoQn84k+7yddfuNkzd/z88PyeC83edfO1of1zZgfVnzxdans/ZPP7zeVP1fvUnNB5UUaCe/pLMSAAAAAElFTkSuQmCC' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "61",
+            "9"
+        ],
+        [
+            "70",
+            "<a data-content='匹兹堡大学' href='https://www.forwardpathway.com/10918' target='_blank'>匹兹堡大学</a>",
+            "<a data-content='University of Pittsburgh-Pittsburgh Campus' href='https://www.forwardpathway.com/10918' target='_blank'>University of Pittsburgh-Pittsburgh Campus</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAulBMVEVHcEzjzYRbVkuQh24JBwEEBAJmZGRHTF9UWGd1b14kHg3y7KEPDAIhGwsICAillmfOu4D+86y8rHkXEwdhY2j99ZDdyYQ/OCIqJBBNQycAAAAGBACzpXw3QWGKgmdKPx9ZTy4iHhO0pn1+eW6ViFxCOiANCgJXTTN5akBkWT2Fdkl4dG1VSzBjXEp6cFFhWDmJgm5AOSMZKl04QWIHGlYuOl8RI1plX1AkMl9TU1ickXRORzZXTzeIfmKw/CBOAAAAMnRSTlMANP6qgUP9/fr8EBMwtQdrWwhol+IiSfPUyBtye/idinTsnMpPqcT0s99v3aPk4r6+1N0VbNUAAAFKSURBVBgZ3cEFTgNBAAXQvzay7lJXXMrYStv7XwtCQ0LCDXgP/19QWUGQprVVVVWG34K6wtO+JMkL0ZIy9lwfdnWAb1bulPT50DGlVx9aDUqo5dOrXJZObmXYcCmMEKeIC5Z0kk1q0ssHqoQxmjloiRG2bcp1I+mh6a9cTYS8MTkZqc0J7oWZvtEy+ZDLxC3acXhto+2ZX9XEdI5Z1BvSULHqqM6B9Tis/Fk4b6m49twCvMsguVT7bhwWwJEOC3x51/Tl7ghg1lBlDEuKUayAI9U5gNAWZRD7+BKNivaPvmuLU4Z3KlMAm1E4uHFtQdYh1lyxOnwTwy4DHqROcePda7lD3DElFy4RYp9hQxRNcePxQTELLbf7pLjYvQP/kSq5wI13ZmNvwY3cue/N3cJDuD3b3MK3eLa9j+YxfvE9967ADy/EH7GPf+0T+N4oAwJvrT0AAAAASUVORK5CYII=' />",
+            "<a data-content='宾夕法尼亚州' href='https://www.forwardpathway.com/21492' target='_blank'>宾夕法尼亚州</a>",
+            "68",
+            "2"
+        ],
+        [
+            "76",
+            "<a data-content='明尼苏达大学双城分校' href='https://www.forwardpathway.com/10452' target='_blank'>明尼苏达大学双城分校</a>",
+            "<a data-content='University of Minnesota-Twin Cities' href='https://www.forwardpathway.com/10452' target='_blank'>University of Minnesota-Twin Cities</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAPFBMVEVHcEyTLTBzBy2WMjCHIi+/ajRjBS4TACfJdDa6YzOuUjKcOzGqTzJ+ETCvUDTVgTiKITG8ZDWVMDKjQDNr4OBgAAAADXRSTlMAjT6tYfQrDf7c3sm8sPllVQAAAQZJREFUKM/NUguuxCAIxCqCtYq097/rQ+322WQPsNOkGYXhJwC/Drqxsn9sexrYQ/iwbTEH0dohIcggKmE1cysdHAIP0vhtZm1Nuasne5k3j2Ja9Nvm2fRiDF7ys0d0AK7nOV9ioKTlPEvFGLF2pmntzEkrLCb33sTCpYlbUuNVLlbTMV+lav/hk5yO4d67U+09jWAHPUOxZBgDmpd5YIhopXwGE9M87DKLln0KUnzq0gMgVevNJlYTwKF3dc5bIZdkR4nPy3ByIpelWrHegRpp1SJSZhzgTJan30oF66mMiBS3+4vU8xguBOTxgryOidJ8VkbI8/mTX83+vszP8tC33aIf3v8/9FcRqyC4DqsAAAAASUVORK5CYII=' />",
+            "<a data-content='明尼苏达州' href='https://www.forwardpathway.com/24384' target='_blank'>明尼苏达州</a>",
+            "69",
+            "7"
+        ],
+        [
+            "76",
+            "<a data-content='弗吉尼亚理工' href='https://www.forwardpathway.com/10253' target='_blank'>弗吉尼亚理工</a>",
+            "<a data-content='Virginia Polytechnic Institute and State University' href='https://www.forwardpathway.com/10253' target='_blank'>Virginia Polytechnic Institute and State University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAOVBMVEVHcEzCf3zUiH76hmT3NxTbi32wcHT8iVe3cnDujXPqi3Tzf2D6fVfhmIxlJjpqLUFfIDWYW2d+QlQJVSIbAAAADnRSTlMA9NhCCb7+Ieh0kmEx7wUyFXgAAAC+SURBVCjP5ZFpEsMgCIXd14jI/Q9bIG0my/QC7ffDwcgjz6cxv0oWwlHdMG2UYhufelfujGaynTDtZkIkmBf0s6kLcTXTE05UuAu0WJWHBkcAqctKS+BiauGyWKoJgcbixVVmEGBqUnn1rvI1eYTsfeEpLpzuJr+FiStKbxRxP1/9bVp8SitQDJdofBJxO3z6a3Isx2nzx+ZNLPJdnB07tP6RfFxFxXtED7YhCW2WiNThnS7iHpn69XGDYP6CF7GgC/c5S9UGAAAAAElFTkSuQmCC' />",
+            "<a data-content='弗吉尼亚州' href='https://www.forwardpathway.com/24579' target='_blank'>弗吉尼亚州</a>",
+            "69",
+            "7"
+        ],
+        [
+            "78",
+            "<a data-content='美利坚大学' href='https://www.forwardpathway.com/10011' target='_blank'>美利坚大学</a>",
+            "<a data-content='American University' href='https://www.forwardpathway.com/10011' target='_blank'>American University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAATlBMVEX////+/v4AQZ0BTaMUWarvBCnMFUIgWqogYK3vEjclY64kZrDwLk5Fd7jzS2dlk8h7pND1eI2bttj6r7u4zub90dja6Pb/7/Ls9/7///9BBcr9AAAAAnRSTlOf7sf4lJIAAAEgSURBVHjahZPRkoMgDEXdICpbQCAg5v9/dIMVS6t176gPnrnOMRO67ucmXdcRrU2I8hGigsP4WzPOlK2u8Rt2wBHbBYHIS6UU31JWLPbAtCRKas8Zu+CJrPyCRTRDJvyCwUQYkLKW1zjMMNhd7owfsYdBHXIfmMVADPKQ+2xHU7Cucu+YxfgxSFnkLnCILkZMHlnOYkJMLZ7iY+SZot7kNBK2bXARYFrzNmuW09natr3MIKaVf2qXS7ZpgyNT2gWrXCaH+oX7mSiaZ5tfEyXb4J6dOc4sSW3SfCf9/mPFvrTVcx9Qn9dhPZbhAot7/F+7X+ou8NjUCYt47ILF865B2XMpN3FbsWgSKHs+CBa92j++Lm14YlTOT0opF3x7BP8Au8QlXR75fyAAAAAASUVORK5CYII=' />",
+            "<a data-content='华盛顿特区' href='https://www.forwardpathway.com/25251' target='_blank'>华盛顿特区</a>",
+            "69",
+            "9"
+        ],
+        [
+            "78",
+            "<a data-content='贝勒大学' href='https://www.forwardpathway.com/10450' target='_blank'>贝勒大学</a>",
+            "<a data-content='Baylor University' href='https://www.forwardpathway.com/10450' target='_blank'>Baylor University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAATlBMVEVHcEwABw8DJgwAEw49SwkfOQoADQsAAg5aYQY9UAgCKw0AIQy6pwH+1gAcPBOynALpxABkbAXRtQF5eQWRiQShkwM7XUhrhneitq2Qp5rlJtVWAAAACXRSTlMAIa537eRXM/jgrJ4JAAABDklEQVQoz33Q23LDMAgE0MSxarEIDOji9P9/tA+Z6TSO3H09AjF7u/1meyxpXdPy2G6fuS9rL6WUUvq6fDz4Sj0qKaBUo6evk1I0MLMqM6MFvfk9hTMAtAYA7JHuf3jLhQEA7gAALnl7450BMFkQA8CMmUzEiK+4iojUS25ids3ozb23q79RnXL1y2mv/3JtrbXr07qISJ+zuoY0l1DXSWsaJkIwsZiV+qpMTcSm0yZBgO5zRogzwCqT5Z08TAGo1si0n7mKODlz3rlI7Sc2k9A9M5N4FrMTi2WAGGCvqCEnLgoACgarMvaPy/kY41v1wDGY5/wc44lxTBgYqkN1QBXn5RTlLUZvnNZT0ot/AH/sGnAhg6fNAAAAAElFTkSuQmCC' />",
+            "<a data-content='德克萨斯州' href='https://www.forwardpathway.com/24203' target='_blank'>德克萨斯州</a>",
+            "75",
+            "3"
+        ],
+        [
+            "80",
+            "<a data-content='科罗拉多矿业大学' href='https://www.forwardpathway.com/10257' target='_blank'>科罗拉多矿业大学</a>",
+            "<a data-content='Colorado School of Mines' href='https://www.forwardpathway.com/10257' target='_blank'>Colorado School of Mines</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAZlBMVEVHcExxjLVadp1yjLUxUXgxTXd5lb9DYYpYdJtQapI6WIAmRmxhfaUoSHFHYYxge6IrS3MVNl5QbJROapIoR3BtiK9JZY1lgKlEYYkjRG5Wc5suTnhMapM5WIFog6tfe6MaPGUOMFkvUxSnAAAAGXRSTlMA/VbMcx39/jEV30F00gq0kNrr0rCRmuq9ioG2JgAAAU5JREFUKM+Vk9t2hCAMRQdE0EFlxMuUO/z/TzboOFVru9o8wdoEck7C7fafqKpfYN0gNNU/phYIIVrga4qfPnjvKSJXtAlBh+CDU/FxQTVECCymqNQ3jq22VkvMewXYnO6vpGVWDyCrbBVgw/e0+7CM2WERXbbGGHff6yPMOSZflmTu2O75+u4g3no5bBj78o84OD8eL7PzO7k1yrhqfxtUsr11I7nWg1QClermtRmz1EOragkmDN267mOM49GHWVut1wyeUownm3B2eJVCEnB+xKUM2k/LcrIp9eURdwKaJ5aloDr25xYJ6H2x1FZQ5IfTjJXCe1TUK4YZeQpcdhvjj57tcYDQcphnQshjhJYmhjxdMS6QDxqmwYJX0A2jVEyWUtps8wtDqDeYaUyeTtVuwIWE/MzNwvvpVGuF54/hDtG2I+Hd5S8pc3R//3Ofv3AcZC4k/cwAAAAASUVORK5CYII=' />",
+            "<a data-content='科罗拉多州' href='https://www.forwardpathway.com/24031' target='_blank'>科罗拉多州</a>",
+            "75",
+            "5"
+        ],
+        [
+            "80",
+            "<a data-content='纽约州立大学宾汉姆顿分校' href='https://www.forwardpathway.com/9197' target='_blank'>纽约州立大学宾汉姆顿分校</a>",
+            "<a data-content='Binghamton University' href='https://www.forwardpathway.com/9197' target='_blank'>Binghamton University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAclBMVEVHcEzi4uIcHBsgHh7x8vIiHh+np6j08/MgHR4jICDx8fIeGhtlY2QjHyCdnJ0vLCx6eXkZFhczMDEcGBpNS0shHR5OTU0WEhMlISI8OTpnZWaGhYWZmZmtrK24t7jExMTR0dHb29vm5ufv7+/5+fn///+Lppu9AAAAF3RSTlMAERIdHigtLjI8SkpRXGZ0gpSqxdDq+3iBuooAAAHiSURBVHjaVZPBbiQ3DEQfSUmtnslmnf//yI0D93SPJJI5DLxr1/WBKKBYVfgqBQi4ndYeAOUL3NNC9ai2fPeTb7i2M2XgFlbbWpLfcDeNq3egjRF7/eALtmT4j2atSKwr11U7x2+snWP/u1gLU1oZm73v8fta75f/6Jq3EZEiTa/2z7/efb5wW7HfyS6aOFKKUN9+9RVOATPXG6mVGrOFm5hnfTtqP17e483AxaeaG3NThB7jhILe5tYAS7UwyXjF5zZ+zqMg4X8BxNxqzhRpLIko2QMKTV0hJYAllkaikGYfXQtrmZK2lQQMyZBbzuWpqVYoCWl3lkutzEwRlWZnCuGFnM2kL0/Np1kBSLAyEKRAXd5YlmABIUJSaSuJLFBHmCQZRqKCgAgqQXkWJhGpZq5poYikZDrGqlDw1kegK+pEbKAuiSDjao8okLHObktTYqMlBpLyfFIGBa7ax7VvT7To8g0A8Y/jfjkFZI9xSN1WZQ5fW4Gcx3sjoFDsceuPbFXn1MBPFab/h13O69/Hvb3fe8GE0HCY79ZwoLB8355xv8atpqmEuJ/PZv5ZxXzchtDt4KYJ63LuOsefIj/Io5+lnft80rQfpzjfZrBpjHk/+qb4QXxu5xOP/fbgehl+0f+WVx/YDv6rFQAAAABJRU5ErkJggg==' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "87",
+            "-7"
+        ],
+        [
+            "80",
+            "<a data-content='纽约州立大学石溪分校' href='https://www.forwardpathway.com/10192' target='_blank'>纽约州立大学石溪分校</a>",
+            "<a data-content='Stony Brook University' href='https://www.forwardpathway.com/10192' target='_blank'>Stony Brook University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAbFBMVEVHcEyYDQ3rx8ebCAigERHapqaaAQH////RjIz+/v6dBQX+/v6/YWHpxsafCQnSj4+dAQH89PS3UVGeAwOSAACZAAClAQGgHR2rMjKxQkLAYWHHdHTRiYnYnJzcp6fhtbXowsLt0ND14uL///8C6fy6AAAAFHRSTlMAFCUsR0h7gYeWmKextMDN4vz9/jXsz4IAAAFcSURBVHjaddPZdoMgEADQGI1JbWrDJvv+///YQa1oa+ZwfPAOA+JwueyjaZrLaTRdP4zjC39DPB7XY1Y3vMg0TYRhawwMN/ZtnTgSkBIUW22shgRChjWhIRNbg2Kv5gTP2TSs/CKVAw7KaWM0PWMZcZS+JJFTTjLKoLzymp2yCMoa7XE8nY2ENyqWIurAhM+chfUCiah13DOVhs4sTRRJaXg8KnMTkpWFsUI8OIGk+6gMi2bLCyuchUk8Wrln4R1UB9ZizRC74kxwKkqRbHgZJan/ZThzugyZLUGepQBj5ctYf4nMjqbEHOIm31bu9+xpQFxnKdF15XZ3ajlQl0XZwtfWLFt14EhNVhxF0tVeIpUT1dnQmJ+7XhumygTD+nbb2PZtCyMOKUzfD63aLj4zR1kMf/q8mx04C+Dnv3vQjtN8qFmSeD+7KD0UAFbj7c1F6keJPt/gcgWvxxc/0mwziq0o0SUAAAAASUVORK5CYII=' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "97",
+            "-17"
+        ],
+        [
+            "80",
+            "<a data-content='叶史瓦大学' href='https://www.forwardpathway.com/10447' target='_blank'>叶史瓦大学</a>",
+            "<a data-content='Yeshiva University' href='https://www.forwardpathway.com/10447' target='_blank'>Yeshiva University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEwAVJcAU5cAVJcAV5wAVJcAVJYAVZgAVJcAVJc0S2N5AAAACnRSTlMATj4s/GAY1H+ugCx1PwAAAU5JREFUeNpVkcFrgzAYxT+VeTaR2B41QWlvRtH7IEW91ahjR2tZ7wVBdnXt2LkI+3eXdu3avdtLwsv3/R7ARWbcwl1bD6ESpzeHSoYk5wgFykUl8hpH2sYbwggxqDY2iVishEfuJOAamMUR+SpZnHpMB8vA9PVbiOz9SDHxwCaLQfRCHYhhDDfA8VIUM+X3kzgFEUTgi2c+DINdC6nyOx/1q62KT2uBwQEN0Sk3O89uDxm1LdDD7lBATFk75axzwaCyLiAhDKYVwSGYKF1mbQqG2Z92XG3JDF8EpJGdKCuuFtrM6eTUYsULdnSU17A+2/cim+1t3TqjWXOSqfl6ueAXSJ7DD8rn1JQXPk8tmis/+sH6l2X1oh7k3i65Mk2Az8UYr6srUF1+8oY6iXvj7YdGGY/4j79uaTi8X6uEDw1XDwWpn8ljYaA3LvzTrbwfPwRHwlDQbHYAAAAASUVORK5CYII=' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "94",
+            "-14"
+        ],
+        [
+            "80",
+            "<a data-content='北卡罗来纳州立大学' href='https://www.forwardpathway.com/10191' target='_blank'>北卡罗来纳州立大学</a>",
+            "<a data-content='North Carolina State University at Raleigh' href='https://www.forwardpathway.com/10191' target='_blank'>North Carolina State University at Raleigh</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAjVBMVEVHcEzY2Njv7+/ZpaX///+8amrl4+N5gID////////29vb9/v7+/v69uLj9/f3////8/f39/f3d3d2oq6uZnp7JAADMAQHUBARSYGDXOzvdVFTiLy9uY2PZFRVGUFDie3vfaGjUJCThioowPj6jd3fEZmZrcXHAhIQAAgKZmprtQECNaWm6lZWKd3cBDw+vvaqOAAAAFXRSTlMAqqf+Df6o/DRSsJB//tIha/Ot/ew5Qll+AAABdklEQVQoz32T2XaCMBQALdDignuzgVmhILL8/+f1JogEtZ0XD2e8OWRIFgtHtAm+PIJNtPCI1iX1EXEQ+fYiqk+PSpTrSQelkJx4cCnizThrLUEYIeyAX0QM+GH9VZ1bi7UGA05z+As3eb0cdNxkMJAaZVLGUiONhsfbJR71xWmGeHgWtCWKwWP2ojHHquwb/ofWISNpbacJJ6+L67JUJDNYtUXRFPmLpj2tOMIq73shxHamVZpuiyYMmTYtjB6TZD/qG2gmZco50VJKnZk8Tu7Vltu8suMTrsrDH87WQy7mgCjgq7EaLP+dVzetpHKY1IZ/bGyfHHZ13rUKEQ5g7KJOWbZC0P5KGYf9FoXJ5FM1ARWKkGWXK0C7cD4dNzeoqO5adCF/37ztAJO9/yQKcfdqyDzpzmoO1RxSzTa2qu9HjQ2a2SxEjlmigFJ32B5NrRXleNSjtfUzpKDTRQAvqh8PuAa76J9LVB59DVfw9OFx2qyG9/oFZLZCuveK/QkAAAAASUVORK5CYII=' />",
+            "<a data-content='北卡罗来纳州' href='https://www.forwardpathway.com/24947' target='_blank'>北卡罗来纳州</a>",
+            "81",
+            "-1"
+        ],
+        [
+            "80",
+            "<a data-content='德克萨斯基督教大学' href='https://www.forwardpathway.com/10443' target='_blank'>德克萨斯基督教大学</a>",
+            "<a data-content='Texas Christian University' href='https://www.forwardpathway.com/10443' target='_blank'>Texas Christian University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAQlBMVEVHcEyLaaeBXKFxRJWFZqSJZqeMbah2V5FrOZOCXaGCXKN9WJx8Up19VJ95UppsP5KQbaxwRZNRFoFhK4xIC3laIYgiSviBAAAAEnRSTlMAcZv1PbEmEf6DyUvj923g2rtMV7S0AAAA9ElEQVQ4y+WRWW7DMAxERxIl0dpsc7n/VYvYSZsAPUE7XwQfdwJ/XbUClYjKbX4gCrFFlJaY00JvMdArpIY4WF1zaWpixj2weForFADbYDdz8RjVUj5c9i2ZaTg5ZcIUc9ODNWfRhTJFKavMdYr5RLJ0iMZ2hCzagdhaDa6xBjZJSDKi6FYqsni/x9lcN9Td5oE5wuYaADyz47px2WUnrIof/OitqX7j+qpVgey2t+H2xPUNjwjQkGvvhcA2qCS7cG9imgHQZGVeQG0iacidfbr5fGBQp34NT9PNJK2HffJs1wHf1OPgca+ZM/3ywbI9vQX/UF/CpQ6BjmOFYAAAAABJRU5ErkJggg==' />",
+            "<a data-content='德克萨斯州' href='https://www.forwardpathway.com/24203' target='_blank'>德克萨斯州</a>",
+            "78",
+            "2"
+        ],
+        [
+            "85",
+            "<a data-content='加州大学河滨分校' href='https://www.forwardpathway.com/10923' target='_blank'>加州大学河滨分校</a>",
+            "<a data-content='University of California-Riverside' href='https://www.forwardpathway.com/10923' target='_blank'>University of California-Riverside</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAA9lBMVEVHcEwtdOmpucC6jhKUeSNZVkHKmQ4HKMcmO3MFHZ+YfCNXVkCRqcAxbMTRwYqphRnAkhFxjrkvc/iMseV7bDCIdCeohBmHcyi4jhKHcyp6oNeYrLx3p+W/vKB+bS9ik9snaNeXfCGviBijghuifyBuYz1+ptq3jRJ6peHQxJmKr91xnteFqNJ+oMm4jBRsh6lCguqrvMwwctCYpbF3qeh6rOaIq91vmMw4gfXBy8UvcMKUeyTUoB/2qgAEQZBceKL7rwAQO4A1etDSmg4IMXRnnuTcoQ49esb/uRweaMRVkd7hyYH60GCxp4Eza7QTRIvZrkPjqhS9cvIkAAAAPHRSTlMAJ+rAVSzxCxgFZDzNNv7M3vdK+l2QsUfSfKDddvlqfD+qhZh0TuXu9fzYws77m/ds/Uv3TXe434v9/sYQM2mbAAABw0lEQVQoz4XQaXOiQBAG4ME5gVVQbokc4hnPmDvrAepizJ3//2d2MKlUKVTl/UB19UPNdA8APGxQ4unMgHB7KMrgOP7z4+PLkAJQz4ob8YSZmy4qU14Il5u4XztRIP6ZLw5d0Z3HDeGUKefKr0zLQca1crmIxbrWu9gs+r2e5hewrz3sR5u4sd/vjv3A09u35XYyj1/ft8unc5rjSfKgZYd3Vttdjvt31WTHOW7cjSajzim/3F8m6/sK59rs6io4unv4sVnEr8n6OU7TUm5vMCt9zD85V9J5wxdzDIKh6/LDL1x3CopCaVBN1h2Bj0TLPLkjhIyzbjDqaQNaxFqd56b6fvws37zdP/3Lslu+5Vikg9V2+ZVkUs9PJwyrq69U81dnfnZ9luXaZz892aKFmwJmYf41iYnbjB2NIVLZYw7x+D+2YyNFD2VDbiEmIZE1ETbaXRJJqk4BImqEIIIG1FPD66pSUw1lG0EHykShwAwVuRkhRWkigiUzbI7tNrOR6UEdQh0YuoJtyep25RZpS4RYeNzVTWkM1ZZHDD6HxUJsfariWMUtU0GypLaiSCIQU/yzhNQGju14juFg5S+Wre9V/gM7/0Ir8y/GKAAAAABJRU5ErkJggg==' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "124",
+            "-39"
+        ],
+        [
+            "85",
+            "<a data-content='圣地亚哥大学' href='https://www.forwardpathway.com/9195' target='_blank'>圣地亚哥大学</a>",
+            "<a data-content='University of San Diego' href='https://www.forwardpathway.com/9195' target='_blank'>University of San Diego</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAS1BMVEVHcEwiQG9Ia5BWdppbfKBdf6Ncf6NTeJ9Fbpc0YIw7Z5JMc5xZfqQpVobV4fFykrPk7fsDNmyZscpjhKkaSnyxw9cpereDosLF0+TyWBiSAAAAB3RSTlMAIFF2q9Lo0R2JAwAAAclJREFUeNptU1mW4yAMjBeiHcwWuP9JRzg9/TLTrQ/zTEmlhdLj8Wmb2+N32/Yz3HbuP122IwCaMRoghOM/hz0oimVDlpozp7B/okfl2oRyQ2LKWcjq8YECsXETSG5ABqBNv/FdPaNhKjO6zZ4Q/Ve/+LenWSUo8boWfMVZhCrw813fqVVYHS3lxv3oQDXz+Q5uqFiupM2641fv11Uk53aHH6BEw29ztjs8pXnFYQhpVReYRLvzMXK9PIW8lnPFpsG5gcBSvEZJMP0+Et7hiSrK9tiFkcq1wuD97X1lHz5f3B0mWi3PWcYcPY4+MfbuXICyYJ8AZXPyNGAMKZ26ijhKN8wJfdppVE1QK+mcw0/3uMkRlTE3AiFEUeqxxKRVvV2P3p7MDK2Ju7/cLHbzupwbbc3lVIfUs8JCX9w7z+LhxPdUDwVu1Ud3oy8qvfaFAsP9ZsFy9hngyxZKYjBWL43C9hZDlsZeLKpzS1mlk3GGL0Gc2HLzTpi0FJm9VM6t4flXpYFygibIacZUEjce2cK3WrdQvXx/OYSl5pyIJXxoeTvBqiswu4hbIlA8t3+34KkmreW8doGfx29rIuADVPmxJF+CPm77XJA/iVkiDkPAcj4AAAAASUVORK5CYII=' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "90",
+            "-5"
+        ],
+        [
+            "85",
+            "<a data-content='密歇根州立大学' href='https://www.forwardpathway.com/10258' target='_blank'>密歇根州立大学</a>",
+            "<a data-content='Michigan State University' href='https://www.forwardpathway.com/10258' target='_blank'>Michigan State University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEwQQjcQQjcPQTYQQjcOQTcPQjcPQjcPQjcRRDjECZOPAAAACXRSTlMAxY5U5h5wN6lyushHAAABDklEQVQYGVXBwUvCYADG4Z/JnOcCaTedBO22IDCPgga7jTasbgmZeZNAqpsoqB2XY/n+t32frkPPw1HS6vfPJ/x5i2TkjZiDO5VmWNVIR3sOpir9YNVk9JbbSAusrqTVPOncj0IMJ5I283VwxtGJVLyfLi8ppdK4NfLHlLoq0le/w59Am3YjTF46HHnqbCcPklYceNmHP/dkNDEcrxi2K7IKLG/33JzKymOMr50fezpoYgRF6EayogFG9xtX1kVyi5FmOJGMkCuMeg6ejKxdeQJqeUwgK6sMADeHrqys1gDcDB5lZTiAu4dUVo5V3cGnei0pjzHqC7hezwikGcZNDA7gegox5pRqUZN/hgv4BeJcdPC6ggofAAAAAElFTkSuQmCC' />",
+            "<a data-content='密歇根州' href='https://www.forwardpathway.com/24383' target='_blank'>密歇根州</a>",
+            "81",
+            "4"
+        ],
+        [
+            "89",
+            "<a data-content='特拉华大学' href='https://www.forwardpathway.com/10256' target='_blank'>特拉华大学</a>",
+            "<a data-content='University of Delaware' href='https://www.forwardpathway.com/10256' target='_blank'>University of Delaware</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEwAUZ8AUaAAUJ8AUaAAUaAAUqEAUaAAUaAAUaApjw+mAAAACnRSTlMAM1glaUURe86c3HMBeAAAAL1JREFUGBnNwT0PwUAABuCXSqw9FR8b1ZLb1NFYS6/YtGnqRh8l7di0CbOBWAnpz7X2H/A8+DVP3q9RsBzGqURKinIwDHMLCJQ3k/OI2xa3uHmCQIVw1U1n9XnHZyoEpU+/2+MzL3VqRIeY+vSlMKY0mGkcGFrR+HS1NlU7PHJPcxFfMjySZmi3XU3V+pDyD/KkWcv0ZLDSHSCSkaeUL/rP8H12gUjGnZCAbXdSMCFAJJdvKBAJHaLAUwP8jy/vWSkkJ23MqgAAAABJRU5ErkJggg==' />",
+            "<a data-content='特拉华州' href='https://www.forwardpathway.com/20590' target='_blank'>特拉华州</a>",
+            "81",
+            "8"
+        ],
+        [
+            "89",
+            "<a data-content='霍华德大学' href='https://www.forwardpathway.com/11299' target='_blank'>霍华德大学</a>",
+            "<a data-content='Howard University' href='https://www.forwardpathway.com/11299' target='_blank'>Howard University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAV1BMVEVHcEwILFwHOWQIOmcfTncMQGwVR3ELPWpgg6GpvMuyw9CVrL8ANmRSeJgSRnE1YoYDPGoAMWEHPWsaS3UoV380YYc4Zos9apBkhaOAmrKXq77F0t36/P2ZvhIbAAAAEXRSTlMADR8xV2uEsLC+xcbT09/j72OYNRQAAADHSURBVHjalZPrDoMgDEZFLt5wyrWgvv9zrprth5OS7JgQkhPo16pN8w+MVXXb1jWv6q6rlp6XavG+rx1WWiv6uPSIImMvEAMsnAwGKYWZbH3I25YGMtl46pHMNiVkoqMFTE4MhknlEO9UMTp7QQTnsTdFdB0iEqCo2VkZL/dBFLU2xuVsjZFlbc1+HNlYSlvUG60N7LsndIP6oqz5ikOxFpdiY9zHcBGfn2OrhFzth44L8Zgozux8YgTc/pbX6w3x+D1ufF/qGxm2DojjrPS/AAAAAElFTkSuQmCC' />",
+            "<a data-content='华盛顿特区' href='https://www.forwardpathway.com/25251' target='_blank'>华盛顿特区</a>",
+            "110",
+            "-21"
+        ],
+        [
+            "89",
+            "<a data-content='芝加哥洛约拉大学' href='https://www.forwardpathway.com/8972' target='_blank'>芝加哥洛约拉大学</a>",
+            "<a data-content='Loyola University Chicago' href='https://www.forwardpathway.com/8972' target='_blank'>Loyola University Chicago</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAYFBMVEVHcEySF0WRGUTnrxaSHEOSGkOSGkSSGkOSGkOTGkOTHEWQFkC8XC+UHEPNdyfajCGoOzrrqBiLDDiSGEOaIUmfNVqpR2m7WjG0Yn7DgJfQnK7Yrbzjwczr1t3z5+v+/f20/C9nAAAAE3RSTlMAEB8oKTxLWnCEmLDc6Pb8/f3+Yf1SXwAAAdBJREFUeNpVk8FuJUkIBCMpqtvW/P+H7mH9XlcV5B5sj7QcCSUgpEhh0OCnjIwsXAJlqssf+YtlqcPO/RWXnXXPvXR/RwUbZYUu6/TlzH4b8M/og1ShC6Fblej2g/H3TqHr0cWyVWck7YDhUYMaVbqQX8OtWnNkDwFXzU2GYt0st8bG+mTnUazvozig+Rq2VIT6NSI5MrSPtXXV0RivmdRC00pmvGG3HOo3addHHbAVVmobQHCP8444ecX7SNBVM5PhB3Cme0BgzYMhc3bWR29AHnjoOCbkaH1/KaMdjS+JYDnOuCBjQWVUBqEDgdjOE0NrSiEY9cx0bSBGB7tSpV2aoTHpeZHn+jwbnwn3moHPSIatOJ2dGQa7MUEElNTRZ3XUnkl77ONRZ55zA16jTkb3NXCisPbz0YsRz4fOnv1osPCTnVt5cn/xR7s4LxV9HOufHfboRG/f7BefNGqLIt7rgVR1subw1Pq35o0Rgq91kD1PJ96ejsn72fMSPLU39zPHC0iwW8/nmfV+X6laTbbuJ/jGnMrLJ+9XrgWaEWd95PnFeF+FmLNM3Ds0fL6t+NFjKe1RTm1oxPofxlvcxdCuax//OvVXLswbHth9/vb4DwXeR8f+KPK3AAAAAElFTkSuQmCC' />",
+            "<a data-content='伊利诺伊州' href='https://www.forwardpathway.com/20231' target='_blank'>伊利诺伊州</a>",
+            "103",
+            "-14"
+        ],
+        [
+            "89",
+            "<a data-content='印第安纳大学伯明顿分校' href='https://www.forwardpathway.com/10188' target='_blank'>印第安纳大学伯明顿分校</a>",
+            "<a data-content='Indiana University-Bloomington' href='https://www.forwardpathway.com/10188' target='_blank'>Indiana University-Bloomington</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEyXAACYAACYAACZAACZAACaAACaAACZAACdAADmFV0sAAAACXRSTlMAIjNSXX675vle1ztPAAAAqUlEQVR42s3RLQ/CMBAG4DIysNSwyQUFDtufgJukDkwTHKiCHIQMJIySvf+W68dYHZY3uVwf0V5yZcwmq+vjgfWZA3hEHkqYZTgPOOcTgcZ18khrvVnh5Tp5THf3ZNfJyRqmICcS18I+kOPCyEygCsOa4PPfWLjqbGbSVef2dnflnaOLd/p16TcmA03YYKrUDm+lyn7Bdn6cH56e0G4jL+j1Z+RM19r/5wce7W7E8a5fewAAAABJRU5ErkJggg==' />",
+            "<a data-content='印第安纳州' href='https://www.forwardpathway.com/24197' target='_blank'>印第安纳州</a>",
+            "90",
+            "-1"
+        ],
+        [
+            "89",
+            "<a data-content='爱荷华大学' href='https://www.forwardpathway.com/10259' target='_blank'>爱荷华大学</a>",
+            "<a data-content='University of Iowa' href='https://www.forwardpathway.com/10259' target='_blank'>University of Iowa</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAKlBMVEVHcEz+0wD+1AD/vQD/1gD+1AD+zwD+1gD9yQD+0AD+xwD+1AD/4QD+0AAHx6G1AAAADnRSTlMAvZ0M/tGJ6jRYJKv/c2M9z3EAAAC8SURBVBjTY2CAgMUMKIBZiwB/Bxp/Fyqfq9YAhbsiPAGZP/2C1QIkLudBFNUMy0+gmnbHA5UfI4zC5XBpQOFPddktraSkpH0Byp/iclw0UFQ0EMbnPuLWvKK5awVMPdMRlzLxsEJRmCPYjoQeSqkthfOZtmo5sXmkToTzE5WLOE9cRfCzgXwPvPwyZD43mJ86G2Y/dyKInw53D2OilhPviXS4f6aUFB5XP1iiNgHKnygoKBgoKCh6gYEwAAC2DzgF+00CvAAAAABJRU5ErkJggg==' />",
+            "<a data-content='爱荷华州' href='https://www.forwardpathway.com/24198' target='_blank'>爱荷华州</a>",
+            "78",
+            "11"
+        ],
+        [
+            "89",
+            "<a data-content='纽约州立大学布法罗分校' href='https://www.forwardpathway.com/10790' target='_blank'>纽约州立大学布法罗分校</a>",
+            "<a data-content='University at Buffalo' href='https://www.forwardpathway.com/10790' target='_blank'>University at Buffalo</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAHlBMVEVHcEwAYbMAY7QAY7QAY7UAZLUAY7UAY7UAZLYAab/tQZMbAAAACXRSTlMADjFejanJ4P0kZ7zcAAAAuklEQVR42r2QsQrCQBBE94T0OYzaxsofsLEMHoaUgqB2VgZ78S5tQsimNpq9v3UvRwp/INMMj2V3hgWYWIq1BxDeAPLW0pM5b50ByCtWofOsksNChqX3CkYWksVzKT2vNAsbrV/JwFFKpB61Sm0HsMM3BNSEWQkz7AGW9I2ZZXFj/nDyxdYHwrM9qZSOfHC2zQ2ivmttMBkixYKaNafNsfMdAupdR2H6v3mEnjfGkqtUWN85UqPiqd/9A+eYPU0ACV2fAAAAAElFTkSuQmCC' />",
+            "<a data-content='纽约州' href='https://www.forwardpathway.com/21491' target='_blank'>纽约州</a>",
+            "97",
+            "-8"
+        ],
+        [
+            "89",
+            "<a data-content='马凯特大学' href='https://www.forwardpathway.com/9196' target='_blank'>马凯特大学</a>",
+            "<a data-content='Marquette University' href='https://www.forwardpathway.com/9196' target='_blank'>Marquette University</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAV1BMVEVHcEwyVHEDPX4COnsIPnwEPHwDO38GP39BXGcAPX4CPYO3oDDcuhuPiUVxd1Saj0BNY2MCPIQXRHsnTHUyVG8+W2pYaGFkb1qEgUyplzjGqifovxX+0Aal6/EjAAAAEXRSTlMAEiA1XXaPqsbH2ff4/Pz9/qTXyQkAAAFKSURBVHjajdPrboUgDABgb6hHLCC3lsL7P+fwZHMbumQNsdZPSv/Qdf+OvuvG/nw+4jgN3dz30zg8spjHysNc0yOLk+tfz7uXdZq0mNa12S2md1ipfFLBqPldis8m/TwvNdaQKms0sJ7lNUIvXkeNGBIdoLUiPMtN/GKPXkeXVPQQzZ2RAkvLWRryeGeKgbkyR7LkbqxC0Fibkyer7J0xkHfJG0sh3Zo7ikZWDvEgZGw5AoYvVkm6hk2Ci4GT/c325BSdDNErYm3b5kkflBwHBKTMN5bsDadcx0ZVctsc9Q64M0eTEXn3DQfQFsEYa8DGRM3kDrloKHs2WBKU7FuWhamUjPGdnzmRUn+xpgyKVM0Nb+fZ2QPb5DA7yiX85OW1eaBDywMOxQdqbV7LxbOY5k3KDeralNzULhchrtvQD8NQ79Z31Pf66aQP8JUjt72QA+oAAAAASUVORK5CYII=' />",
+            "<a data-content='威斯康星州' href='https://www.forwardpathway.com/24590' target='_blank'>威斯康星州</a>",
+            "90",
+            "-1"
+        ],
+        [
+            "96",
+            "<a data-content='旧金山大学' href='https://www.forwardpathway.com/11118' target='_blank'>旧金山大学</a>",
+            "<a data-content='University of San Francisco' href='https://www.forwardpathway.com/11118' target='_blank'>University of San Francisco</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJFBMVEVHcEz+yQz/vQn+xwz/xgr/0Q7+xwz/0A3+zg3+zQ3+zw3/3g9VAbBRAAAAC3RSTlMAeRNeMvxIqb2W8BzJDTAAAAEBSURBVBjTY2DADiQUULiMu5tQ+NKTdyArYNzJYI2sQHoCAzOygk5GkwlWDjAek5GCqkgYEzNMgG07g5ZIMIO0AJTvYF2gJRLGuF0JYgLjEubtWiLLrAs4mmCGm3aJrIiEWsG4kyXNM1okusXNAewG6QmmoVHRIqGhoTtBCjh3MrilpaUpAXEayJFApzobGyc7pRkbm4EdLT3BKnQVUH1UaCTzdrB5TC5A81a3uDhYF4HtK2AQrRJZvpyBcbsCxD2MOyHuaYC4V0Ea5F5mmHth/rGG+YfJQAEoz8SGCIB25hQBKQek8CpADS/G7QzWBSjhPXE7SoQwRhehxpe4AvZ4BABjAD+uOPVzIQAAAABJRU5ErkJggg==' />",
+            "<a data-content='加利福尼亚州' href='https://www.forwardpathway.com/21184' target='_blank'>加利福尼亚州</a>",
+            "110",
+            "-14"
+        ],
+        [
+            "96",
+            "<a data-content='科罗拉多大学博尔德分校' href='https://www.forwardpathway.com/8923' target='_blank'>科罗拉多大学博尔德分校</a>",
+            "<a data-content='University of Colorado Boulder' href='https://www.forwardpathway.com/8923' target='_blank'>University of Colorado Boulder</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAYFBMVEVHcEyBdkZkWjRhVDR9cUWHeU368rFCOiX//9TGsXiZjVt2aEHSunsAAAHNtXVBPzmPjYjfx4ro1aHe0a3jzpSmopdzc3IuLi5RUlTOxKklIx3VyqwSExXv4ruyrqC7t6uPjUiWAAAADHRSTlMAea3dgJ8l5xU5ecaEuYMSAAABRUlEQVQoz23T7ZKDIAwFULat2rWIED5EBH3/t9yAImj3/ul0zhBNgoQQ0vavKv2bXNI+p7GKa+66yeWM5L656qxoFUAv9VEFY0UZA+5eJ3ccGJVndakoC/ZRsWJqnXLGhVJ5Zz7k+JkysI/fI1+8AATrjiafmadtxWg/jNZaP5hVa73aLrMNAiPdUWQF/Ae8MMTu5sxaMMpExSHOpmJKRSjsjMb+Z3wq53yKp8Vmxq68+SjxtPcSVLCRwfjn54tT3zt37T4WMRuTikvOZcW4mc4ERgUApLUpwFcOY+Fmwp2k7PtCNUNh0jgeZyBEZPyJWjG6wQnqDavLFSc5XJk06YpZeZ3aySSu7pHY/8cxiRd7XNpNMHVjbFDJI0Bvp3uXGsz3kalt+lT8jg2WCxu1vXwP6HI+sqx3jQMsn9K34vNfPzn9rn8hty36s8TD7AAAAABJRU5ErkJggg==' />",
+            "<a data-content='科罗拉多州' href='https://www.forwardpathway.com/24031' target='_blank'>科罗拉多州</a>",
+            "90",
+            "6"
+        ],
+        [
+            "96",
+            "<a data-content='丹佛大学' href='https://www.forwardpathway.com/10189' target='_blank'>丹佛大学</a>",
+            "<a data-content='University of Denver' href='https://www.forwardpathway.com/10189' target='_blank'>University of Denver</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAARVBMVEVHcEyHFSeCDR2DESGACBqDDh+GFCWOKzWSOD6FEiKLHS2fRlKrVmKMa0mzaXG8eIHFiZHLmqHUrbLfwsbs29317O3////2XMFTAAAACXRSTlMALjhdhbLT/f4OoWmoAAABS0lEQVR42m2S23YCMQwDR3EWCv//qT3tsomtPsByK3mdI8W21AGgSRI0q8DGLgA6EE2tN/F4zixXXnE7RbmcJiBBob4wLzdMG4loQEYARRL9cjMHo8JyCKAc2Pe/AVIIFW+v36chMhKAZfzDAQQBkPFBvXugj+YArpO2giU/YOvQmyK3D2qjJbzOTg+T7RX77Fa/Ioqty516wj7KzuqzIbJDEvKOba8GpTJAtirrVN5xybrtjqMLZ/MDz0UAPiz4+9CgDzR2XGWVwAfBuQAhXPtoVX0DB0ZXHy+z7pPn5VzNkaS7AdqJkY/Fqo7jq/1cWweor8OPs8xx3KIF4GtcOefT1bzp3LQ8zr9uL22ZLTqHO/4d8zWSgY7sDbts4z2xOTjSEHAZ0+951zrzK4Bat1n/61DD89yZP3nXvrZleO3M20ofujaz8yQF/gC8qsn3g5Hv0wAAAABJRU5ErkJggg==' />",
+            "<a data-content='科罗拉多州' href='https://www.forwardpathway.com/24031' target='_blank'>科罗拉多州</a>",
+            "87",
+            "9"
+        ],
+        [
+            "96",
+            "<a data-content='伊利诺伊理工大学' href='https://www.forwardpathway.com/10791' target='_blank'>伊利诺伊理工大学</a>",
+            "<a data-content='Illinois Institute of Technology' href='https://www.forwardpathway.com/10791' target='_blank'>Illinois Institute of Technology</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAJ1BMVEVHcEzmGznkFzbkFzXlFjXlFjXkFTXkFDTlEzTlEjTlEjPmEjTyEzZOOJyUAAAADHRSTlMAECU3UWqCmLfN6P5jd1XcAAABLUlEQVR42mNgQAMCgoLKxkpKCkwKjIoMQkoMZaFhaemdsxZpT5Bcwti1nMG7LS0tzckkULPAZjPLmc0M7KdK08I7Ww0YGEQC2FYVMDCt2RFWZpK52EwBaJiQAANDzp7tbh2Ohj4B5QJgCyRP71lmuiqBSXCVYIcDkM+ye/eepaqLXRiUWc4EgBT0AAWmKFYJKzCGgTVY7969+0yjCOcEiH4G9tNAgc1OrAmVBmA+0xogf9F0QYZuBYiCGCB/01RPASGolySAGhZPyRQ3gPKBNu5e3NLq4wDzc83u3UuaJ3fAw0ALyC9pXgzns53evaQsrQDOZ5yze2l6hAIi0Lx3L0tLRQpEjtPL0hKR+Mx7lqUbIIdyzbJSlFCX2paIwmfdjqKcgXGaAGo0OTMQBwARpl477yLetAAAAABJRU5ErkJggg==' />",
+            "<a data-content='伊利诺伊州' href='https://www.forwardpathway.com/20231' target='_blank'>伊利诺伊州</a>",
+            "103",
+            "-7"
+        ],
+        [
+            "96",
+            "<a data-content='迈阿密大学牛津' href='https://www.forwardpathway.com/10254' target='_blank'>迈阿密大学牛津</a>",
+            "<a data-content='Miami University-Oxford' href='https://www.forwardpathway.com/10254' target='_blank'>Miami University-Oxford</a>",
+            "<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeBAMAAADJHrORAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAACAAC9GCu2FylQBw/HGi0jAgWDDxtwDBekFCR+AU5/AAAACHRSTlMAEyxNaJvX/qp0iXkAAAEVSURBVHjaY2AgERiDAIjBCGGFlwOBA5DPAmKUMojV3b17JwnIVzt79+7zRAbmut2795cC+eG3d+9+bgCk33fOXm7AwFzVOeMfSFwdyPiTyCB2vnPG8iIgHygxc18Jg/vrmTOAyoD2ZHXO6DgmmNPROXuZAIQ/v/t6aO2OnzOg/I5ZM3aVr+5c3wGTn/O6v/zHvpMwfsec+u51O74j8at2zpy9HIlffnvm3nIkftrJjp40JH5I3e7nrkj8gJyZx1ihfOaqjjmJ5quKxU52gN2rBuSXsZYHhAP5IP+Ev585f7ljuUjVz5l/gf4FhcfuPYmhYqd3g8MDFF53b5UyhK+9Cw4vcHiWlytBqFJIeBsbK0FpUqMLAFEcln7s1EyiAAAAAElFTkSuQmCC' />",
+            "<a data-content='俄亥俄州' href='https://www.forwardpathway.com/24202' target='_blank'>俄亥俄州</a>",
+            "78",
+            "18"
+        ]
+    ]
+}
